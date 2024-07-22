@@ -70,7 +70,7 @@ AltStore는 일부 종속성의 라이선스 때문에 **AGPLv3 라이선스**�
 ### 번역가
 * 이메일: taekyung@ancal.me
 
-### 개발자(Riley Testut)
+### 개발자 (Riley Testut)
 * 이메일: riley@altstore.io
 * Mastodon(선호): [@rileytestut@mastodon.social](https://mastodon.social/@rileytestut)
 * Twitter(현재 활동 적음): [@rileytestut](https://twitter.com/rileytestut)
