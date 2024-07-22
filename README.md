@@ -66,6 +66,13 @@ AltStore와 AltServer는 iOS 또는 macOS 개발자라면 비교적 간단하게
 AltStore는 일부 종속성의 라이선스 때문에 **AGPLv3 라이선스**에 따라 배포할 수밖에 없습니다. 그렇지만 AltStore의 목표는 누구나 제한 없이 사용할 수 있는 오픈 소스 프로젝트가 되는 것이므로, 이 프로젝트의 모든 원본 코드를 자유롭게 사용, 수정 및 배포할 수 있도록 명시적으로 허가합니다(종속성은 여전히 원래 라이선스에 따릅니다).
 
 ## 연락처
+
+### 번역가
 * 이메일: taekyung@ancal.me
+
+### 개발자(Riley Testut)
+* 이메일: riley@altstore.io
+* Mastodon(선호): [@rileytestut@mastodon.social](https://mastodon.social/@rileytestut)
+* Twitter(현재 활동 적음): [@rileytestut](https://twitter.com/rileytestut)
 
 AltStore에 대한 일반적인 질문이 있습니까? [FAQ](https://altstore.io/faq/)를 꼭 읽어보세요.
