@@ -9,6 +9,10 @@
 /* Begin PBXBuildFile section */
 		0E33F94B8D78AB969FD309A3 /* Pods_AltStoreCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A08F67C18350C7990753F03F /* Pods_AltStoreCore.framework */; };
 		2A77E3D272F3D92436FAC272 /* Pods_AltStore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9EEAA842DA87A88A870053B /* Pods_AltStore.framework */; };
+		4A223E0B2CA2C072005F4C19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4A223E092CA2C072005F4C19 /* Localizable.strings */; };
+		4A223E0C2CA2C072005F4C19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4A223E092CA2C072005F4C19 /* Localizable.strings */; };
+		4A223E0D2CA2C072005F4C19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4A223E092CA2C072005F4C19 /* Localizable.strings */; };
+		4A223E0E2CA2C072005F4C19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4A223E092CA2C072005F4C19 /* Localizable.strings */; };
 		A8BCEBEAC0620CF80A2FD26D /* Pods_AltServer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC3822AB1C4CF1D4CDF7445D /* Pods_AltServer.framework */; };
 		BF02419622F2199300129732 /* RefreshAttemptsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF02419522F2199300129732 /* RefreshAttemptsViewController.swift */; };
 		BF0241AA22F29CCD00129732 /* UserDefaults+AltServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0241A922F29CCD00129732 /* UserDefaults+AltServer.swift */; };
@@ -636,6 +640,9 @@
 
 /* Begin PBXFileReference section */
 		11611D46F8A7C8B928E8156B /* Pods-AltServer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AltServer.debug.xcconfig"; path = "Target Support Files/Pods-AltServer/Pods-AltServer.debug.xcconfig"; sourceTree = "<group>"; };
+		4A223E0A2CA2C072005F4C19 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4A223E0F2CA2C08F005F4C19 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		4A223E102CA2C091005F4C19 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
 		589BA531D903B28F292063E5 /* Pods-AltServer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AltServer.release.xcconfig"; path = "Target Support Files/Pods-AltServer/Pods-AltServer.release.xcconfig"; sourceTree = "<group>"; };
 		A08F67C18350C7990753F03F /* Pods_AltStoreCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AltStoreCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A136EE677716B80768E9F0A2 /* Pods-AltStore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AltStore.release.xcconfig"; path = "Target Support Files/Pods-AltStore/Pods-AltStore.release.xcconfig"; sourceTree = "<group>"; };
@@ -1873,6 +1880,7 @@
 				BFD2476D2284B9A500981D42 /* AppDelegate.swift */,
 				BF4B78FD24B3D1DB008AB4AC /* SceneDelegate.swift */,
 				BFD247732284B9A500981D42 /* Main.storyboard */,
+				4A223E092CA2C072005F4C19 /* Localizable.strings */,
 				BFE338E722F10E56002E24B9 /* LaunchViewController.swift */,
 				BF41B805233423AE00C593A3 /* TabBarController.swift */,
 				BFE6325822A83BA800F30809 /* Authentication */,
@@ -2720,6 +2728,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
 			);
 			mainGroup = BFD247612284B9A500981D42;
 			packageReferences = (
@@ -2751,6 +2760,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFE4FFB6251BF7BA0018CF9B /* AltPlugin.zip in Resources */,
+				4A223E0C2CA2C072005F4C19 /* Localizable.strings in Resources */,
 				BF458694229872EA00BD7491 /* Assets.xcassets in Resources */,
 				BF458697229872EA00BD7491 /* Main.storyboard in Resources */,
 			);
@@ -2761,6 +2771,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF58048A246A28F9008AE704 /* LaunchScreen.storyboard in Resources */,
+				4A223E0E2CA2C072005F4C19 /* Localizable.strings in Resources */,
 				BF580487246A28F9008AE704 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2769,6 +2780,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A223E0D2CA2C072005F4C19 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2810,6 +2822,7 @@
 				BFD247752284B9A500981D42 /* Main.storyboard in Resources */,
 				BFE6073C231AE1E7002B0E8E /* SettingsHeaderFooterView.xib in Resources */,
 				BF29012F2318F6B100D88A45 /* AppBannerView.xib in Resources */,
+				4A223E0B2CA2C072005F4C19 /* Localizable.strings in Resources */,
 				BFE6325A22A83BEB00F30809 /* Authentication.storyboard in Resources */,
 				D5935AEF29C3B23600C157EF /* Sources.storyboard in Resources */,
 			);
@@ -3438,10 +3451,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		4A223E092CA2C072005F4C19 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4A223E0A2CA2C072005F4C19 /* en */,
+				4A223E102CA2C091005F4C19 /* ko */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		BF458695229872EA00BD7491 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				BF458696229872EA00BD7491 /* Base */,
+				4A223E0F2CA2C08F005F4C19 /* ko */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -3914,7 +3937,7 @@
 				CURRENT_PROJECT_VERSION = 31;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_ASSET_PATHS = AltWidget/Previews.xcassets;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				INFOPLIST_FILE = AltWidget/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3922,7 +3945,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0b7;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.AltStore.AltWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ancal.AltStore.AltWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$inherited WIDGET_EXTENSION";
@@ -3966,6 +3989,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -4034,6 +4058,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -4104,7 +4129,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 31;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = AltStore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -4117,7 +4142,7 @@
 					"$(PROJECT_DIR)/Dependencies/libcurl",
 				);
 				MARKETING_VERSION = 2.0rc;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.AltStore;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ancal.AltStore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "AltStore/AltStore-Bridging-Header.h";

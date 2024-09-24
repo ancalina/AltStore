@@ -1,0 +1,1775 @@
+/* No comment provided by engineer. */
+"%@ %@" = "";
+
+/* No comment provided by engineer. */
+"%@ %@ is now available for download." = "";
+
+/* No comment provided by engineer. */
+"%@ %@ update. Released on %@." = "";
+
+/* No comment provided by engineer. */
+"%@ a month" = "";
+
+/* No comment provided by engineer. */
+"%@ App IDs" = "";
+
+/* No comment provided by engineer. */
+"%@ App IDs Remaining" = "";
+
+/* No comment provided by engineer. */
+"%@ beta" = "";
+
+/* No comment provided by engineer. */
+"%@ by %@" = "";
+
+/* No comment provided by engineer. */
+"%@ can not jailbreak this device unless you untether it first. Are you sure you want to install without untethering?" = "";
+
+/* No comment provided by engineer. */
+"%@ could not be backed up." = "";
+
+/* No comment provided by engineer. */
+"%@ could not be downloaded." = "";
+
+/* No comment provided by engineer. */
+"%@ could not be found." = "";
+
+/* No comment provided by engineer. */
+"%@ could not be installed onto %@." = "";
+
+/* No comment provided by engineer. */
+"%@ could not be installed." = "";
+
+/* No comment provided by engineer. */
+"%@ could not be restored." = "";
+
+/* No comment provided by engineer. */
+"%@ days" = "";
+
+/* No comment provided by engineer. */
+"%@ DAYS" = "";
+
+/* No comment provided by engineer. */
+"%@ does not have any app versions." = "";
+
+/* No comment provided by engineer. */
+"%@ does not support iOS %@." = "";
+
+/* No comment provided by engineer. */
+"%@ error %@." = "";
+
+/* No comment provided by engineer. */
+"%@ failed with code %@." = "";
+
+/* No comment provided by engineer. */
+"%@ failed." = "";
+
+/* No comment provided by engineer. */
+"%@ is currently locked." = "";
+
+/* No comment provided by engineer. */
+"%@ is inactive." = "";
+
+/* No comment provided by engineer. */
+"%@ is not added to AltStore." = "";
+
+/* No comment provided by engineer. */
+"%@ is not currently running on %@." = "";
+
+/* No comment provided by engineer. */
+"%@ is not installed." = "";
+
+/* No comment provided by engineer. */
+"%@ is not running." = "";
+
+/* No comment provided by engineer. */
+"%@ is running %@ %@, but AltStore requires %@ %@ or later." = "";
+
+/* No comment provided by engineer. */
+"%@ News" = "";
+
+/* No comment provided by engineer. */
+"%@ received an invalid request from AltServer." = "";
+
+/* No comment provided by engineer. */
+"%@ requires %@ App IDs, but %@." = "";
+
+/* No comment provided by engineer. */
+"%@ requires %@ or later." = "";
+
+/* No comment provided by engineer. */
+"%@ requires additional permissions not specified by the source." = "";
+
+/* No comment provided by engineer. */
+"%@ requires an active pledge in order to be installed." = "";
+
+/* No comment provided by engineer. */
+"%@ requires iOS %@ or earlier." = "";
+
+/* No comment provided by engineer. */
+"%@ requires iOS %@ or later." = "";
+
+/* No comment provided by engineer. */
+"%@ requires more permissions than the version that is already installed" = "";
+
+/* No comment provided by engineer. */
+"%@ returned unexpected output." = "";
+
+/* No comment provided by engineer. */
+"%@ timed out." = "";
+
+/* No comment provided by engineer. */
+"%@ unexpectedly quit." = "";
+
+/* No comment provided by engineer. */
+"%@ Unsupported Updates Available" = "";
+
+/* No comment provided by engineer. */
+"%@ was successfully installed on %@." = "";
+
+/* No comment provided by engineer. */
+"%@/mo" = "";
+
+/* No comment provided by engineer. */
+"(Error Code: %@)" = "";
+
+/* Use Markdown in localized strings! */
+"**Advanced _features_** let you adjust _individual_ styles, but it's still _simple_ to do with **Markdown**." = "";
+
+/* No comment provided by engineer. */
+"1 App ID" = "";
+
+/* No comment provided by engineer. */
+"1 App ID Remaining" = "";
+
+/* No comment provided by engineer. */
+"1 day" = "";
+
+/* No comment provided by engineer. */
+"123456" = "";
+
+/* Markdown Label */
+"_NSTextView_ with **Markdown**" = "";
+
+/* Rich Text Label */
+"_NSTextView_ with **Rich Text**" = "";
+
+/* Markdown Label */
+"_UITextView_ with **Markdown**" = "";
+
+/* Rich Text Label */
+"_UITextView_ with **Rich Text**" = "";
+
+/* No comment provided by engineer. */
+"A connection to AltServer could not be established." = "";
+
+/* No comment provided by engineer. */
+"A permission for %@ is missing a usage description." = "";
+
+/* No comment provided by engineer. */
+"A personalized Developer Disk is already mounted." = "";
+
+/* No comment provided by engineer. */
+"A placeholder app needs to be installed in order to prepare your device for untethering.\n\nThis may take a few moments." = "";
+
+/* No comment provided by engineer. */
+"A random error occured." = "";
+
+/* No comment provided by engineer. */
+"A required dependency" = "";
+
+/* No comment provided by engineer. */
+"A source cannot change its identifier once added. This source can no longer be updated." = "";
+
+/* No comment provided by engineer. */
+"A source with the identifier '%@' already exists" = "";
+
+/* No comment provided by engineer. */
+"A valid signing certificate could not be created." = "";
+
+/* No comment provided by engineer. */
+"About" = "";
+
+/* No comment provided by engineer. */
+"ACCOUNT" = "";
+
+/* No comment provided by engineer. */
+"ACTIVATE" = "";
+
+/* No comment provided by engineer. */
+"Activate" = "";
+
+/* No comment provided by engineer. */
+"Activate %@" = "";
+
+/* No comment provided by engineer. */
+"Activate %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Active" = "";
+
+/* No comment provided by engineer. */
+"ADD" = "";
+
+/* No comment provided by engineer. */
+"Add More Sources!" = "";
+
+/* No comment provided by engineer. */
+"Add Source" = "";
+
+/* No comment provided by engineer. */
+"Additional Permissions" = "";
+
+/* No comment provided by engineer. */
+"all apps downloaded from it." = "";
+
+/* No comment provided by engineer. */
+"All apps have been refreshed." = "";
+
+/* No comment provided by engineer. */
+"AltServer" = "";
+
+/* No comment provided by engineer. */
+"AltServer could not be found." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not connect to Mail plug-in." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not establish a connection to AltStore." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not establish a secure connection to %@." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not fetch new provisioning profiles." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not find this device." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not retrieve %@." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not retrieve anisette data from AOSKit." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not sign in with your Apple ID." = "";
+
+/* No comment provided by engineer. */
+"AltServer could not write data to this device." = "";
+
+/* No comment provided by engineer. */
+"AltServer does not support this request." = "";
+
+/* No comment provided by engineer. */
+"AltServer received an invalid request." = "";
+
+/* No comment provided by engineer. */
+"AltServer received an invalid response from %@." = "";
+
+/* No comment provided by engineer. */
+"AltServer requires additional dependencies to enable JIT on iOS 17." = "";
+
+/* No comment provided by engineer. */
+"AltServer Running" = "";
+
+/* No comment provided by engineer. */
+"AltServer runs in the background as a menu bar app listening for AltStore." = "";
+
+/* No comment provided by engineer. */
+"AltServer sent an invalid response." = "";
+
+/* No comment provided by engineer. */
+"AltServer's connection to %@ timed out." = "";
+
+/* No comment provided by engineer. */
+"AltStore" = "";
+
+/* No comment provided by engineer. */
+"AltStore can only install marketplace apps that have been notarized by Apple." = "";
+
+/* No comment provided by engineer. */
+"AltStore could not determine this device's UDID." = "";
+
+/* No comment provided by engineer. */
+"AltStore does not have detailed information for these entitlements." = "";
+
+/* No comment provided by engineer. */
+"AltStore Expiring Soon" = "";
+
+/* No comment provided by engineer. */
+"AltStore News" = "";
+
+/* No comment provided by engineer. */
+"AltStore received an unknown response from AltServer." = "";
+
+/* No comment provided by engineer. */
+"AltStore was denied permission to launch %@." = "";
+
+/* No comment provided by engineer. */
+"AltStore was unable to use an existing signing certificate, so it had to create a new one. This will cause any apps installed with an existing certificate to expire — including AltStore.\n\nTo prevent AltStore from expiring early, please refresh the app now. AltStore will quit once refreshing is complete." = "";
+
+/* No comment provided by engineer. */
+"AltStore will expire in 24 hours. Open the app and refresh it to prevent it from expiring." = "";
+
+/* No comment provided by engineer. */
+"AltStore's database could not be saved." = "";
+
+/* No comment provided by engineer. */
+"AltStore's shared app group could not be accessed." = "";
+
+/* No comment provided by engineer. */
+"an app in source “%@”" = "";
+
+/* No comment provided by engineer. */
+"An app-specific password is required. You can create one at appleid.apple.com." = "";
+
+/* No comment provided by engineer. */
+"An error occured while removing the app." = "";
+
+/* No comment provided by engineer. */
+"An error occurred while installing the app." = "";
+
+/* No comment provided by engineer. */
+"An iPad screenshot for %@ does not specify its size" = "";
+
+/* No comment provided by engineer. */
+"An unknown error occured." = "";
+
+/* No comment provided by engineer. */
+"An unknown error occurred." = "";
+
+/* No comment provided by engineer. */
+"anisette data values." = "";
+
+/* No comment provided by engineer. */
+"Any apps you've installed from this source will remain, but they'll no longer receive any app updates." = "";
+
+/* Rich Text Help */
+"Any changes made in _this view_ will be reflected in the **Markdown** view" = "";
+
+/* Markdown Help */
+"Any changes made in _this view_ will be reflected in the **Rich Text** view" = "";
+
+/* No comment provided by engineer. */
+"App" = "";
+
+/* No comment provided by engineer. */
+"App Contains Extensions" = "";
+
+/* No comment provided by engineer. */
+"app extension" = "";
+
+/* No comment provided by engineer. */
+"app extensions" = "";
+
+/* No comment provided by engineer. */
+"App group does not exist" = "";
+
+/* No comment provided by engineer. */
+"App Refresh Tip" = "";
+
+/* No comment provided by engineer. */
+"App with bundle ID '%@' does not exist in source JSON." = "";
+
+/* No comment provided by engineer. */
+"Apple ID" = "";
+
+/* No comment provided by engineer. */
+"Approve" = "";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear AltStore's cache?" = "";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear the error log?" = "";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove the source “%@”?" = "";
+
+/* No comment provided by engineer. */
+"Are you sure you want to restore this backup?" = "";
+
+/* No comment provided by engineer. */
+"Are you sure you want to sign out?" = "";
+
+/* No comment provided by engineer. */
+"Are you sure you want to uninstall the AltServer Mail plug-in?" = "";
+
+/* No comment provided by engineer. */
+"Are you sure you want to unlink your Patreon account?" = "";
+
+/* No comment provided by engineer. */
+"At least one app" = "";
+
+/* No comment provided by engineer. */
+"Back Up" = "";
+
+/* No comment provided by engineer. */
+"Back Up %@" = "";
+
+/* No comment provided by engineer. */
+"Backing up app data…" = "";
+
+/* No comment provided by engineer. */
+"Backup %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Become a patron" = "";
+
+/* No comment provided by engineer. */
+"Browse" = "";
+
+/* No comment provided by engineer. */
+"Cancel" = "";
+
+/* No comment provided by engineer. */
+"Cannot Activate More than 3 Apps" = "";
+
+/* No comment provided by engineer. */
+"Cannot Activate More than 3 Apps and App Extensions" = "";
+
+/* No comment provided by engineer. */
+"Cannot Send Mail" = "";
+
+/* No comment provided by engineer. */
+"CarPlay" = "";
+
+/* No comment provided by engineer. */
+"Categories" = "";
+
+/* No comment provided by engineer. */
+"Change App Icon" = "";
+
+/* No comment provided by engineer. */
+"Change Icon" = "";
+
+/* No comment provided by engineer. */
+"Classic" = "";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "";
+
+/* No comment provided by engineer. */
+"Clear Error Log" = "";
+
+/* No comment provided by engineer. */
+"Connect Patreon Account" = "";
+
+/* No comment provided by engineer. */
+"Connection error code: %@" = "";
+
+/* No comment provided by engineer. */
+"Continue" = "";
+
+/* No comment provided by engineer. */
+"Continue in App" = "";
+
+/* No comment provided by engineer. */
+"Copy Error Code" = "";
+
+/* No comment provided by engineer. */
+"Copy Error Message" = "";
+
+/* No comment provided by engineer. */
+"Could not attach debugger to %@." = "";
+
+/* No comment provided by engineer. */
+"Could not back up jailbreak app." = "";
+
+/* No comment provided by engineer. */
+"Could not back up “%@”." = "";
+
+/* No comment provided by engineer. */
+"Could not connect to device \(self.udid)." = "";
+
+/* No comment provided by engineer. */
+"Could not copy provisioning profiles." = "";
+
+/* No comment provided by engineer. */
+"Could not detach debugger from \(self.process)." = "";
+
+/* No comment provided by engineer. */
+"Could not download OTA archive." = "";
+
+/* No comment provided by engineer. */
+"Could not enable JIT for %@" = "";
+
+/* No comment provided by engineer. */
+"Could not extract Spotlight from OTA archive." = "";
+
+/* No comment provided by engineer. */
+"Could not find matching provisioning profile." = "";
+
+/* No comment provided by engineer. */
+"Could not find profile" = "";
+
+/* No comment provided by engineer. */
+"Could not install %@ placeholder." = "";
+
+/* No comment provided by engineer. */
+"Could not install %@." = "";
+
+/* No comment provided by engineer. */
+"Could not install profile “%@”" = "";
+
+/* No comment provided by engineer. */
+"Could not open %@ placeholder." = "";
+
+/* No comment provided by engineer. */
+"Could not open %@." = "";
+
+/* No comment provided by engineer. */
+"Could not patch %@ placeholder." = "";
+
+/* No comment provided by engineer. */
+"Could not remove profile “%@”" = "";
+
+/* No comment provided by engineer. */
+"Could not remove “%@”." = "";
+
+/* No comment provided by engineer. */
+"Could not restore “%@”." = "";
+
+/* No comment provided by engineer. */
+"Could not start debugserver on device \(self.udid)." = "";
+
+/* No comment provided by engineer. */
+"CREDITS" = "";
+
+/* No comment provided by engineer. */
+"Custom Pledge" = "";
+
+/* No comment provided by engineer. */
+"Deactivate" = "";
+
+/* No comment provided by engineer. */
+"Deactivate %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Debug" = "";
+
+/* No comment provided by engineer. */
+"DEBUG" = "";
+
+/* No comment provided by engineer. */
+"Debug Description" = "";
+
+/* No comment provided by engineer. */
+"Default" = "";
+
+/* No comment provided by engineer. */
+"Delete" = "";
+
+/* No comment provided by engineer. */
+"Delete sideloaded apps to free up App ID slots." = "";
+
+/* No comment provided by engineer. */
+"Developer" = "";
+
+/* No comment provided by engineer. */
+"DeveloperDiskImage.dmg and its signature could not be found in the downloaded archive." = "";
+
+/* No comment provided by engineer. */
+"DISPLAY" = "";
+
+/* No comment provided by engineer. */
+"Download %@" = "";
+
+/* No comment provided by engineer. */
+"Download %@ %@" = "";
+
+/* No comment provided by engineer. */
+"Downloading %@…" = "";
+
+/* No comment provided by engineer. */
+"Downloading iOS firmware..." = "";
+
+/* No comment provided by engineer. */
+"duplicate versions" = "";
+
+/* No comment provided by engineer. */
+"Each app and app extension installed with AltStore must register an App ID with Apple. Apple limits non-developer Apple IDs to 10 App IDs at a time.\n\n**App IDs can't be deleted**, but they do expire after one week. AltStore will automatically renew App IDs for all active apps once they've expired." = "";
+
+/* No comment provided by engineer. */
+"Each app and app extension installed with AltStore must register an App ID with Apple.\n\nApp IDs for paid developer accounts never expire, and there is no limit to how many you can create." = "";
+
+/* No comment provided by engineer. */
+"Enable Background Refresh to automatically refresh apps in the background when connected to the same Wi-Fi as AltServer." = "";
+
+/* No comment provided by engineer. */
+"Enable JIT" = "";
+
+/* No comment provided by engineer. */
+"Enable JIT for %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Enabled JIT for %@" = "";
+
+/* No comment provided by engineer. */
+"Enter a source's URL below, or add one of the recommended sources." = "";
+
+/* No comment provided by engineer. */
+"Entertainment" = "";
+
+/* No comment provided by engineer. */
+"Entitlement" = "";
+
+/* No comment provided by engineer. */
+"Entitlements are additional permissions that grant access to certain system services, including potentially sensitive information." = "";
+
+/* No comment provided by engineer. */
+"Error" = "";
+
+/* No comment provided by engineer. */
+"Error code: %@" = "";
+
+/* No comment provided by engineer. */
+"Error Description" = "";
+
+/* No comment provided by engineer. */
+"Error Details" = "";
+
+/* No comment provided by engineer. */
+"Error Loading Patrons" = "";
+
+/* No comment provided by engineer. */
+"Errors that occur when sideloading or refreshing apps will appear here." = "";
+
+/* No comment provided by engineer. */
+"Expires in" = "";
+
+/* No comment provided by engineer. */
+"Expires in %@" = "";
+
+/* No comment provided by engineer. */
+"Expires in %@." = "";
+
+/* No comment provided by engineer. */
+"Export Backup" = "";
+
+/* No comment provided by engineer. */
+"Failed to Activate %@" = "";
+
+/* No comment provided by engineer. */
+"Failed to Back Up %@" = "";
+
+/* No comment provided by engineer. */
+"Failed to Clear Error Log" = "";
+
+/* No comment provided by engineer. */
+"Failed to Deactivate %@" = "";
+
+/* No comment provided by engineer. */
+"Failed to Enable JIT for %@" = "";
+
+/* No comment provided by engineer. */
+"Failed to Install %@" = "";
+
+/* No comment provided by engineer. */
+"Failed to install Mail plug-in." = "";
+
+/* No comment provided by engineer. */
+"Failed to Log In" = "";
+
+/* No comment provided by engineer. */
+"Failed to perform authentication handshake with server." = "";
+
+/* No comment provided by engineer. */
+"Failed to Refresh %@" = "";
+
+/* No comment provided by engineer. */
+"Failed to refresh %@ apps." = "";
+
+/* No comment provided by engineer. */
+"Failed to refresh 1 app." = "";
+
+/* No comment provided by engineer. */
+"Failed to Refresh AltStore" = "";
+
+/* No comment provided by engineer. */
+"Failed to Refresh Apps" = "";
+
+/* No comment provided by engineer. */
+"Failed to Restore %@ Backup" = "";
+
+/* No comment provided by engineer. */
+"Failed to Uninstall Mail Plug-in" = "";
+
+/* No comment provided by engineer. */
+"Failed to Update %@" = "";
+
+/* No comment provided by engineer. */
+"Failure" = "";
+
+/* No comment provided by engineer. */
+"Failure Reason" = "";
+
+/* No comment provided by engineer. */
+"Fault" = "";
+
+/* No comment provided by engineer. */
+"Featured" = "";
+
+/* No comment provided by engineer. */
+"Featured Apps" = "";
+
+/* No comment provided by engineer. */
+"Finish in %@" = "";
+
+/* No comment provided by engineer. */
+"Finish installing %@?" = "";
+
+/* No comment provided by engineer. */
+"Follow the instructions in %@ to finish jailbreaking this device." = "";
+
+/* No comment provided by engineer. */
+"For your protection, please remove the source and uninstall" = "";
+
+/* No comment provided by engineer. */
+"Free" = "";
+
+/* No comment provided by engineer. */
+"Free Developer Account" = "";
+
+/* No comment provided by engineer. */
+"Free up disk space by removing non-essential data, such as temporary files and backups for uninstalled apps." = "";
+
+/* No comment provided by engineer. */
+"Games" = "";
+
+/* No comment provided by engineer. */
+"Gradient" = "";
+
+/* No comment provided by engineer. */
+"Hash:\n%@\n\nExpected Hash:\n%@" = "";
+
+/* No comment provided by engineer. */
+"Hey ,\n\nYou’re the best. Your account was linked successfully, so you now have access to the beta versions of all of our apps. You can find them all in the Browse tab.\n\nThanks for all of your support. Enjoy!\nRiley & Shane" = "";
+
+/* No comment provided by engineer. */
+"Hey y'all,\n\nYou can support future development of our apps by donating to us on Patreon. In return, you'll receive access to the beta versions of our apps and be among the first to try the latest features.\n\nThanks for all your support 💜\nRiley & Shane" = "";
+
+/* No comment provided by engineer. */
+"If you're using the MacDirtyCow exploit to remove the 3-app limit, you can install up to 10 apps and app extensions instead." = "";
+
+/* No comment provided by engineer. */
+"If you've removed the 3-sideloaded app limit via the MacDirtyCow exploit, disable this setting to sideload more than 3 apps at a time." = "";
+
+/* No comment provided by engineer. */
+"In order to finish jailbreaking this device, you need to install %@ then follow the instructions in the app." = "";
+
+/* No comment provided by engineer. */
+"Inactive" = "";
+
+/* No comment provided by engineer. */
+"Incorrect verification code." = "";
+
+/* No comment provided by engineer. */
+"Info" = "";
+
+/* No comment provided by engineer. */
+"Install" = "";
+
+/* No comment provided by engineer. */
+"Install %@" = "";
+
+/* No comment provided by engineer. */
+"Install %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Install Untethered Jailbreak" = "";
+
+/* No comment provided by engineer. */
+"Install Without Untethering" = "";
+
+/* No comment provided by engineer. */
+"Installation Succeeded" = "";
+
+/* No comment provided by engineer. */
+"Installed" = "";
+
+/* No comment provided by engineer. */
+"Installing %@ placeholder…" = "";
+
+/* No comment provided by engineer. */
+"Installing %@ to %@..." = "";
+
+/* No comment provided by engineer. */
+"Installing %@..." = "";
+
+/* No comment provided by engineer. */
+"Installing this app will revoke your iOS development certificate." = "";
+
+/* No comment provided by engineer. */
+"Invalid access token." = "";
+
+/* No comment provided by engineer. */
+"Invalid parameters." = "";
+
+/* No comment provided by engineer. */
+"iOS" = "";
+
+/* No comment provided by engineer. */
+"iOS %@ or earlier" = "";
+
+/* No comment provided by engineer. */
+"iOS %@ or later" = "";
+
+/* No comment provided by engineer. */
+"Jailbreak Requires Untethering" = "";
+
+/* No comment provided by engineer. */
+"Jailbreak Supports Untethering" = "";
+
+/* No comment provided by engineer. */
+"JIT could not be enabled for %@." = "";
+
+/* No comment provided by engineer. */
+"JIT will remain enabled until you quit the app." = "";
+
+/* No comment provided by engineer. */
+"JIT will remain enabled until you quit the app. You can now disconnect %@ from your computer." = "";
+
+/* No comment provided by engineer. */
+"Join Patreon" = "";
+
+/* No comment provided by engineer. */
+"Keep App Extensions" = "";
+
+/* No comment provided by engineer. */
+"Last Updated" = "";
+
+/* No comment provided by engineer. */
+"Last Updated: %@" = "";
+
+/* No comment provided by engineer. */
+"Lifestyle" = "";
+
+/* No comment provided by engineer. */
+"Link Patreon account" = "";
+
+/* No comment provided by engineer. */
+"Loading..." = "";
+
+/* No comment provided by engineer. */
+"MACDIRTYCOW" = "";
+
+/* No comment provided by engineer. */
+"Mail plug-in installation was cancelled." = "";
+
+/* No comment provided by engineer. */
+"Mail Plug-in Uninstalled" = "";
+
+/* No comment provided by engineer. */
+"Make sure Mail is running and the plug-in is enabled in Mail's preferences." = "";
+
+/* No comment provided by engineer. */
+"Make sure the app is running in the foreground on %@ then try again." = "";
+
+/* No comment provided by engineer. */
+"Make sure the app is running in the foreground on your device then try again." = "";
+
+/* No comment provided by engineer. */
+"Make sure this computer's date & time matches your iOS device and try again." = "";
+
+/* No comment provided by engineer. */
+"Make sure to only add sources that you trust." = "";
+
+/* No comment provided by engineer. */
+"Make sure you have trusted this device with your computer and Wi-Fi sync is enabled." = "";
+
+/* No comment provided by engineer. */
+"Make sure you're on the same Wi-Fi network as a computer running AltServer, or try connecting this device to your computer via USB." = "";
+
+/* No comment provided by engineer. */
+"Make sure your computer's date & time matches your iOS device and try again. You may need to re-install AltStore with AltServer if the problem persists." = "";
+
+/* No comment provided by engineer. */
+"Missing AltJIT Dependencies" = "";
+
+/* No comment provided by engineer. */
+"Modern" = "";
+
+/* No comment provided by engineer. */
+"More" = "";
+
+/* No comment provided by engineer. */
+"Multiple AltServers Not Supported" = "";
+
+/* No comment provided by engineer. */
+"Name" = "";
+
+/* No comment provided by engineer. */
+"Never" = "";
+
+/* No comment provided by engineer. */
+"New & Updated" = "";
+
+/* No comment provided by engineer. */
+"New Update Available" = "";
+
+/* No comment provided by engineer. */
+"No active apps require refreshing." = "";
+
+/* No comment provided by engineer. */
+"No Apps" = "";
+
+/* No comment provided by engineer. */
+"No Connected Devices" = "";
+
+/* No comment provided by engineer. */
+"No connected Patreon account." = "";
+
+/* No comment provided by engineer. */
+"No Errors" = "";
+
+/* No comment provided by engineer. */
+"No Refresh Attempts" = "";
+
+/* No comment provided by engineer. */
+"No Sideloaded Apps" = "";
+
+/* No comment provided by engineer. */
+"No Updates Available" = "";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps and app extensions, and “%@” contains %@ %@. Please choose an app to deactivate." = "";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps and app extensions." = "";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps and app extensions. Please choose an app to deactivate." = "";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps. Please choose an app to deactivate." = "";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 apps and app extensions. Inactive apps don't count towards your total, but cannot be opened until activated." = "";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 apps. Inactive apps are backed up and uninstalled so they don't count towards your total, but will be reinstalled with all their data when activated again." = "";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to creating 10 App IDs per week." = "";
+
+/* No comment provided by engineer. */
+"none are available" = "";
+
+/* No comment provided by engineer. */
+"Notice" = "";
+
+/* No comment provided by engineer. */
+"OK" = "";
+
+/* No comment provided by engineer. */
+"one or more apps" = "";
+
+/* No comment provided by engineer. */
+"One or more apps in source “%@” are missing a marketplaceID. This most likely means they are not notarized, which is not supported by this version of AltStore." = "";
+
+/* No comment provided by engineer. */
+"only %@ are available" = "";
+
+/* No comment provided by engineer. */
+"only 1 is available" = "";
+
+/* No comment provided by engineer. */
+"Open" = "";
+
+/* No comment provided by engineer. */
+"Open %@" = "";
+
+/* No comment provided by engineer. */
+"Open Placeholder" = "";
+
+/* No comment provided by engineer. */
+"Operation Failed" = "";
+
+/* No comment provided by engineer. */
+"Organization" = "";
+
+/* No comment provided by engineer. */
+"Other" = "";
+
+/* No comment provided by engineer. */
+"Other Entitlements" = "";
+
+/* No comment provided by engineer. */
+"Password" = "";
+
+/* No comment provided by engineer. */
+"Patch Placeholder" = "";
+
+/* No comment provided by engineer. */
+"Patching %@ placeholder…" = "";
+
+/* No comment provided by engineer. */
+"Patching placeholder app..." = "";
+
+/* No comment provided by engineer. */
+"PATREON" = "";
+
+/* No comment provided by engineer. */
+"Patreon Account Detected" = "";
+
+/* No comment provided by engineer. */
+"Permission" = "";
+
+/* No comment provided by engineer. */
+"Personalize your AltStore experience by choosing an alternate app icon." = "";
+
+/* No comment provided by engineer. */
+"Photo & Video" = "";
+
+/* No comment provided by engineer. */
+"Photos" = "";
+
+/* No comment provided by engineer. */
+"Please deactivate a sideloaded app in order to install another one.\n\nIf you're running iOS 13.5 or later, make sure “Offload Unused Apps” is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps." = "";
+
+/* No comment provided by engineer. */
+"Please deactivate a sideloaded app with AltStore in order to install another app.\n\nIf you're running iOS 13.5 or later, make sure 'Offload Unused Apps' is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps to prevent them from erroneously counting towards this limit." = "";
+
+/* No comment provided by engineer. */
+"Please enter the 6-digit verification code that was sent to your Apple devices." = "";
+
+/* No comment provided by engineer. */
+"Please enter your Apple ID and password." = "";
+
+/* No comment provided by engineer. */
+"Please follow the instructions on the AltStore FAQ to install all required dependencies, then try again." = "";
+
+/* No comment provided by engineer. */
+"Please make sure you entered both your Apple ID and password correctly and try again." = "";
+
+/* No comment provided by engineer. */
+"Please make sure your spelling is correct, or try searching for another app." = "";
+
+/* No comment provided by engineer. */
+"Please open the placeholder app and follow the instructions to continue jailbreaking your device." = "";
+
+/* No comment provided by engineer. */
+"Please reboot %@ and try again." = "";
+
+/* No comment provided by engineer. */
+"Please remove the existing source in order to add this one." = "";
+
+/* No comment provided by engineer. */
+"Please restart Mail for changes to take effect." = "";
+
+/* No comment provided by engineer. */
+"Please try again later." = "";
+
+/* No comment provided by engineer. */
+"Please unlock the device with your passcode and try again." = "";
+
+/* No comment provided by engineer. */
+"Please use the same AltServer you previously used with this Apple ID, or else apps installed with other AltServers will stop working.\n\nAre you sure you want to continue?" = "";
+
+/* No comment provided by engineer. */
+"Pledge" = "";
+
+/* No comment provided by engineer. */
+"Pledge %@ a month" = "";
+
+/* No comment provided by engineer. */
+"Pledge Expired" = "";
+
+/* No comment provided by engineer. */
+"Pledged" = "";
+
+/* No comment provided by engineer. */
+"Privacy Permission" = "";
+
+/* No comment provided by engineer. */
+"Receive access to beta versions of AltStore, Delta, and more by becoming a patron." = "";
+
+/* No comment provided by engineer. */
+"Recessed" = "";
+
+/* No comment provided by engineer. */
+"Recommended Sources" = "";
+
+/* No comment provided by engineer. */
+"Recovery Suggestion" = "";
+
+/* No comment provided by engineer. */
+"Refresh" = "";
+
+/* No comment provided by engineer. */
+"Refresh %@" = "";
+
+/* No comment provided by engineer. */
+"Refresh %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Refresh %@ in AltStore to continue using it." = "";
+
+/* No comment provided by engineer. */
+"Refresh All" = "";
+
+/* No comment provided by engineer. */
+"Refresh Later" = "";
+
+/* No comment provided by engineer. */
+"Refreshed Apps" = "";
+
+/* No comment provided by engineer. */
+"Refreshing" = "";
+
+/* No comment provided by engineer. */
+"REFRESHING APPS" = "";
+
+/* No comment provided by engineer. */
+"remote AltServer %@" = "";
+
+/* No comment provided by engineer. */
+"Remove" = "";
+
+/* No comment provided by engineer. */
+"REMOVE" = "";
+
+/* No comment provided by engineer. */
+"Remove App Extensions" = "";
+
+/* No comment provided by engineer. */
+"Remove Custom Icon" = "";
+
+/* No comment provided by engineer. */
+"Remove Source" = "";
+
+/* No comment provided by engineer. */
+"Remove “%@” from AltStore?" = "";
+
+/* No comment provided by engineer. */
+"Restore %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Restore Backup" = "";
+
+/* No comment provided by engineer. */
+"Restoring app data…" = "";
+
+/* No comment provided by engineer. */
+"Retry" = "";
+
+/* No comment provided by engineer. */
+"Review Permissions" = "";
+
+/* No comment provided by engineer. */
+"Search FAQ" = "";
+
+/* No comment provided by engineer. */
+"See All" = "";
+
+/* Markdown Button */
+"Show **Markdown** Examples" = "";
+
+/* Rich Text Button */
+"Show **Rich Text** Example" = "";
+
+/* No comment provided by engineer. */
+"Sideloaded" = "";
+
+/* No comment provided by engineer. */
+"Sideloaded Apps" = "";
+
+/* No comment provided by engineer. */
+"Sign in with your Apple ID to download apps from AltStore." = "";
+
+/* No comment provided by engineer. */
+"Sign Out" = "";
+
+/* No comment provided by engineer. */
+"SIGN OUT" = "";
+
+/* No comment provided by engineer. */
+"Social" = "";
+
+/* No comment provided by engineer. */
+"Sort by…" = "";
+
+/* No comment provided by engineer. */
+"Source File" = "";
+
+/* No comment provided by engineer. */
+"Source Line" = "";
+
+/* No comment provided by engineer. */
+"Sources determine what apps are available in AltStore. The more sources you add, the better your AltStore experience will be.\n\nDon’t know where to start? Try adding one of our Recommended Sources!" = "";
+
+/* No comment provided by engineer. */
+"Special thanks to..." = "";
+
+/* No comment provided by engineer. */
+"Start Backup?" = "";
+
+/* No comment provided by engineer. */
+"Success" = "";
+
+/* No comment provided by engineer. */
+"Successfully enabled JIT for %@." = "";
+
+/* No comment provided by engineer. */
+"Tap to view progress." = "";
+
+/* No comment provided by engineer. */
+"Tap to view source errors." = "";
+
+/* No comment provided by engineer. */
+"TECHY THINGS" = "";
+
+/* No comment provided by engineer. */
+"The %@ '%@' for %@ is missing a usage description." = "";
+
+/* No comment provided by engineer. */
+"The 'versions' array is empty for %@." = "";
+
+/* No comment provided by engineer. */
+"The AltStore app group could not be found." = "";
+
+/* No comment provided by engineer. */
+"the app" = "";
+
+/* No comment provided by engineer. */
+"The app" = "";
+
+/* No comment provided by engineer. */
+"The app group “%@” could not be found." = "";
+
+/* No comment provided by engineer. */
+"The app is in an invalid format." = "";
+
+/* No comment provided by engineer. */
+"The app is invalid." = "";
+
+/* No comment provided by engineer. */
+"The bundle ID does not match the one specified by the source." = "";
+
+/* No comment provided by engineer. */
+"The bundle ID “%@” does not match the one specified by the source (“%@”)." = "";
+
+/* No comment provided by engineer. */
+"the bundle identifier %@" = "";
+
+/* No comment provided by engineer. */
+"The bundle identifier for this app has already been registered." = "";
+
+/* No comment provided by engineer. */
+"The bundle identifier for this app is invalid." = "";
+
+/* No comment provided by engineer. */
+"The bundle identifier is invalid." = "";
+
+/* No comment provided by engineer. */
+"The cached permissions for %@ do not match the source." = "";
+
+/* No comment provided by engineer. */
+"The cached versions for %@ do not match the source." = "";
+
+/* No comment provided by engineer. */
+"The certificate could not be found." = "";
+
+/* No comment provided by engineer. */
+"The certificate request is invalid." = "";
+
+/* No comment provided by engineer. */
+"The certificate's private key could not be found." = "";
+
+/* No comment provided by engineer. */
+"The connection failed because a connection cannot be made to the host." = "";
+
+/* No comment provided by engineer. */
+"The connection failed because the network connection was lost." = "";
+
+/* No comment provided by engineer. */
+"The connection to AltServer was dropped." = "";
+
+/* No comment provided by engineer. */
+"The connection to AltServer was lost." = "";
+
+/* No comment provided by engineer. */
+"The default AltStore source cannot be removed." = "";
+
+/* No comment provided by engineer. */
+"The dependencies for %@ could not be determined." = "";
+
+/* No comment provided by engineer. */
+"The dependency “%@” could not be downloaded." = "";
+
+/* No comment provided by engineer. */
+"The developer certificate could not be found." = "";
+
+/* No comment provided by engineer. */
+"The developer certificate's private key could not be found." = "";
+
+/* No comment provided by engineer. */
+"The Developer disk image could not be installed onto %@." = "";
+
+/* No comment provided by engineer. */
+"The Developer disk located at %@ is incompatible with %@." = "";
+
+/* No comment provided by engineer. */
+"the device" = "";
+
+/* No comment provided by engineer. */
+"The device" = "";
+
+/* No comment provided by engineer. */
+"The device's operating system does not support installing Developer disk images." = "";
+
+/* No comment provided by engineer. */
+"The disk is incompatible with %@." = "";
+
+/* No comment provided by engineer. */
+"the downloaded app" = "";
+
+/* No comment provided by engineer. */
+"The downloaded version of %@ does not match the build number specified by the source." = "";
+
+/* No comment provided by engineer. */
+"The downloaded version of %@ does not match the version specified by the source." = "";
+
+/* No comment provided by engineer. */
+"The following apps have been flagged:" = "";
+
+/* No comment provided by engineer. */
+"the following apps:" = "";
+
+/* No comment provided by engineer. */
+"The hash of the downloaded Mail plug-in does not match the expected hash." = "";
+
+/* No comment provided by engineer. */
+"The identifier for the requested provisioning profile is invalid." = "";
+
+/* No comment provided by engineer. */
+"The identifier of the source “%@” has changed." = "";
+
+/* No comment provided by engineer. */
+"The latest version of %@ could not be determined." = "";
+
+/* No comment provided by engineer. */
+"The Mail plug-in does not exist at the requested URL." = "";
+
+/* No comment provided by engineer. */
+"The more you open AltStore, the more chances it's given to refresh apps in the background." = "";
+
+/* No comment provided by engineer. */
+"The more you use AltStore, the more often iOS will allow it to refresh apps in the background." = "";
+
+/* No comment provided by engineer. */
+"The name of this app contains invalid characters." = "";
+
+/* No comment provided by engineer. */
+"The name “%@” contains invalid characters." = "";
+
+/* No comment provided by engineer. */
+"The operation is forbidden." = "";
+
+/* No comment provided by engineer. */
+"The operation returned an unknown result." = "";
+
+/* No comment provided by engineer. */
+"The operation timed out." = "";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "";
+
+/* No comment provided by engineer. */
+"The OTA download URL for %@ could not be determined." = "";
+
+/* No comment provided by engineer. */
+"The process" = "";
+
+/* No comment provided by engineer. */
+"The process '%@'" = "";
+
+/* No comment provided by engineer. */
+"The provided .ipa does not contain an app bundle." = "";
+
+/* No comment provided by engineer. */
+"The provided anisette data is invalid." = "";
+
+/* No comment provided by engineer. */
+"The provided app group is invalid." = "";
+
+/* No comment provided by engineer. */
+"The provided app is missing its Info.plist." = "";
+
+/* No comment provided by engineer. */
+"The provided parameters are invalid." = "";
+
+/* No comment provided by engineer. */
+"The requested app" = "";
+
+/* No comment provided by engineer. */
+"the same bundle identifier" = "";
+
+/* No comment provided by engineer. */
+"The SHA-256 hash of %@ does not match the hash specified by the source." = "";
+
+/* No comment provided by engineer. */
+"The source" = "";
+
+/* No comment provided by engineer. */
+"The source “%@”" = "";
+
+/* No comment provided by engineer. */
+"The source “%@” contains %@ for %@." = "";
+
+/* No comment provided by engineer. */
+"The source “%@” contains multiple apps with %@." = "";
+
+/* No comment provided by engineer. */
+"The source “%@” contains notarized apps, which are not supported by this version of AltStore." = "";
+
+/* No comment provided by engineer. */
+"The source “%@” has been blocked by AltStore for security reasons." = "";
+
+/* No comment provided by engineer. */
+"The source “%@” is not supported by this version of AltStore." = "";
+
+/* No comment provided by engineer. */
+"The target app" = "";
+
+/* No comment provided by engineer. */
+"The task timed out after %@ seconds." = "";
+
+/* No comment provided by engineer. */
+"The URL to download the Developer disk image could not be determined." = "";
+
+/* No comment provided by engineer. */
+"There are no AltStore sources." = "";
+
+/* No comment provided by engineer. */
+"There is no 'versions' key for %@." = "";
+
+/* No comment provided by engineer. */
+"There is no App ID with the requested identifier on this team." = "";
+
+/* No comment provided by engineer. */
+"There is no certificate with the requested serial number for this team." = "";
+
+/* No comment provided by engineer. */
+"There is no provisioning profile with the requested identifier on this team." = "";
+
+/* No comment provided by engineer. */
+"There was an error connecting to the device." = "";
+
+/* No comment provided by engineer. */
+"There was an error installing the Mail plug-in." = "";
+
+/* No comment provided by engineer. */
+"There was an issue communicating with the usbmuxd daemon." = "";
+
+/* No comment provided by engineer. */
+"These are permissions required by “%@” that AltStore does not recognize. Make sure you understand them before continuing." = "";
+
+/* No comment provided by engineer. */
+"These permissions must be declared by the source in order for AltStore to install this app:" = "";
+
+/* No comment provided by engineer. */
+"These updates don't support iOS %@. Please update your device to the latest iOS version to install them." = "";
+
+/* No comment provided by engineer. */
+"This account requires signing in with two-factor authentication." = "";
+
+/* No comment provided by engineer. */
+"this app" = "";
+
+/* No comment provided by engineer. */
+"This app" = "";
+
+/* No comment provided by engineer. */
+"This app supports custom pledges. Pledge any amount on Patreon to receive access." = "";
+
+/* No comment provided by engineer. */
+"This device is already registered with this team." = "";
+
+/* No comment provided by engineer. */
+"This device is running iOS %@, but %@" = "";
+
+/* No comment provided by engineer. */
+"this device's OS version" = "";
+
+/* No comment provided by engineer. */
+"This device's UDID is invalid." = "";
+
+/* No comment provided by engineer. */
+"This jailbreak has an untethered version, which means %@ will never expire — even after 7 days or rebooting the device.\n\nInstalling an untethered jailbreak requires a few extra steps, but AltStore will walk you through the process.\n\nWould you like to continue? " = "";
+
+/* No comment provided by engineer. */
+"This jailbreak is untethered, which means %@ will never expire — even after 7 days or rebooting the device.\n\nInstalling an untethered jailbreak requires a few extra steps, but AltStore will walk you through the process.\n\nWould you like to continue? " = "";
+
+/* No comment provided by engineer. */
+"This may take a few seconds." = "";
+
+/* No comment provided by engineer. */
+"This will also erase all backup data for this app." = "";
+
+/* No comment provided by engineer. */
+"This will not affect apps you've submitted to the App Store, but may cause apps you've installed to your devices with Xcode to stop working until you reinstall them.\n\nTo prevent this from happening, feel free to try again with another Apple ID." = "";
+
+/* No comment provided by engineer. */
+"This will remove all temporary files as well as backups for uninstalled apps." = "";
+
+/* No comment provided by engineer. */
+"This will replace all data you currently have in %@." = "";
+
+/* No comment provided by engineer. */
+"This will replace any previous backups. Please leave AltStore open until the backup is complete." = "";
+
+/* No comment provided by engineer. */
+"This will take a few moments. Please do not turn off the screen or leave the app until patching is complete." = "";
+
+/* No comment provided by engineer. */
+"Title" = "";
+
+/* No comment provided by engineer. */
+"Today" = "";
+
+/* No comment provided by engineer. */
+"Try Again" = "";
+
+/* No comment provided by engineer. */
+"Two-Factor Authentication Enabled" = "";
+
+/* No comment provided by engineer. */
+"Unable to access backup." = "";
+
+/* No comment provided by engineer. */
+"Unable to Add Source" = "";
+
+/* No comment provided by engineer. */
+"Unable to Change App Icon" = "";
+
+/* No comment provided by engineer. */
+"Unable to Check for Updates" = "";
+
+/* No comment provided by engineer. */
+"Unable to Clear Cache" = "";
+
+/* No comment provided by engineer. */
+"Unable to create app group backup directory." = "";
+
+/* No comment provided by engineer. */
+"Unable to create backup directory." = "";
+
+/* No comment provided by engineer. */
+"Unable to Export Detailed Log" = "";
+
+/* No comment provided by engineer. */
+"Unable to Fetch Apps" = "";
+
+/* No comment provided by engineer. */
+"Unable to Fetch News" = "";
+
+/* No comment provided by engineer. */
+"Unable to find a persistent store." = "";
+
+/* No comment provided by engineer. */
+"Unable to find a valid mapping model." = "";
+
+/* No comment provided by engineer. */
+"Unable to find any managed object models." = "";
+
+/* No comment provided by engineer. */
+"Unable to Launch AltStore" = "";
+
+/* No comment provided by engineer. */
+"Unable to Load Recommended Sources" = "";
+
+/* No comment provided by engineer. */
+"Unable to read app group backup." = "";
+
+/* No comment provided by engineer. */
+"Unable to Refresh %@ Sources" = "";
+
+/* No comment provided by engineer. */
+"Unable to Refresh Store" = "";
+
+/* No comment provided by engineer. */
+"Unable to Refresh “%@” Source" = "";
+
+/* No comment provided by engineer. */
+"Unable to Remove Source" = "";
+
+/* No comment provided by engineer. */
+"Undefined" = "";
+
+/* No comment provided by engineer. */
+"Underlying Error" = "";
+
+/* No comment provided by engineer. */
+"Underlying Errors" = "";
+
+/* No comment provided by engineer. */
+"Uninstall Mail Plug-in" = "";
+
+/* No comment provided by engineer. */
+"Uninstall Plug-in" = "";
+
+/* No comment provided by engineer. */
+"Unknown" = "";
+
+/* No comment provided by engineer. */
+"Unknown Source" = "";
+
+/* No comment provided by engineer. */
+"Unlink %@" = "";
+
+/* No comment provided by engineer. */
+"Unlink Patreon Account" = "";
+
+/* No comment provided by engineer. */
+"Unsupported %@ Version" = "";
+
+/* No comment provided by engineer. */
+"Unsupported iOS Version" = "";
+
+/* No comment provided by engineer. */
+"Unsupported Update Available" = "";
+
+/* No comment provided by engineer. */
+"Unsupported Updates Available" = "";
+
+/* No comment provided by engineer. */
+"Untethering Recommended" = "";
+
+/* No comment provided by engineer. */
+"Untethering Required" = "";
+
+/* No comment provided by engineer. */
+"Untethering this jailbreak will prevent %@ from expiring, even after 7 days or rebooting the device. Are you sure you want to install without untethering?" = "";
+
+/* No comment provided by engineer. */
+"Update" = "";
+
+/* No comment provided by engineer. */
+"Update %@" = "";
+
+/* No comment provided by engineer. */
+"Update %@ Failed" = "";
+
+/* No comment provided by engineer. */
+"Utilities" = "";
+
+/* No comment provided by engineer. */
+"Version %@" = "";
+
+/* No comment provided by engineer. */
+"View All" = "";
+
+/* No comment provided by engineer. */
+"View All Apps" = "";
+
+/* No comment provided by engineer. */
+"View Error" = "";
+
+/* No comment provided by engineer. */
+"View Instructions" = "";
+
+/* No comment provided by engineer. */
+"View More Details" = "";
+
+/* No comment provided by engineer. */
+"View Patreon" = "";
+
+/* No comment provided by engineer. */
+"View Recommended Sources" = "";
+
+/* No comment provided by engineer. */
+"What are inactive apps?" = "";
+
+/* No comment provided by engineer. */
+"wired AltServer" = "";
+
+/* No comment provided by engineer. */
+"Would you like to add the source “%@”?" = "";
+
+/* No comment provided by engineer. */
+"Would you like to download the last version compatible with this device instead?" = "";
+
+/* No comment provided by engineer. */
+"Would you like to download the last version compatible with your device instead?" = "";
+
+/* No comment provided by engineer. */
+"Would you like to remove this app's extensions so they don't count towards your limit?" = "";
+
+/* No comment provided by engineer. */
+"Yesterday" = "";
+
+/* No comment provided by engineer. */
+"You are not a member of any developer teams." = "";
+
+/* No comment provided by engineer. */
+"You are not a member of any development teams." = "";
+
+/* No comment provided by engineer. */
+"You are not signed in." = "";
+
+/* No comment provided by engineer. */
+"You can register another App ID in %@." = "";
+
+/* No comment provided by engineer. */
+"You cannot activate more than 3 apps with a non-developer Apple ID." = "";
+
+/* No comment provided by engineer. */
+"You cannot register more than 10 App IDs within a 7 day period." = "";
+
+/* No comment provided by engineer. */
+"You may only register 10 App IDs every 7 days." = "";
+
+/* No comment provided by engineer. */
+"You must add this source before installing apps from it.\n\n“%@” will begin downloading once it has been added." = "";
+
+/* No comment provided by engineer. */
+"You must also delete it from the home screen to fully uninstall the app." = "";
+
+/* No comment provided by engineer. */
+"You will no longer be able to install or refresh any apps that require pledges." = "";
+
+/* No comment provided by engineer. */
+"You will no longer be able to install or refresh apps once you sign out." = "";
+
+/* No comment provided by engineer. */
+"You will no longer be able to install or update any apps that require pledges." = "";
+
+/* No comment provided by engineer. */
+"You're signed into Patreon but haven't connected your account with AltStore.\n\nPlease connect your account to download Patreon-exclusive apps." = "";
+
+/* No comment provided by engineer. */
+"Your Apple ID and password are not saved and are only sent to Apple for authentication." = "";
+
+/* No comment provided by engineer. */
+"Your Apple ID has no developer teams." = "";
+
+/* No comment provided by engineer. */
+"Your Apple ID or password is incorrect." = "";
+
+/* No comment provided by engineer. */
+"your device" = "";
+
+/* No comment provided by engineer. */
+"Your device could not be registered with your development team." = "";
+
+/* No comment provided by engineer. */
+"Your device must be plugged into your computer to enable JIT on iOS 17 or later." = "";
+
+/* No comment provided by engineer. */
+"Your device must be running iOS 12.2 or later to install AltStore." = "";
+
+/* No comment provided by engineer. */
+"your device's iOS version" = "";
+
+/* No comment provided by engineer. */
+"Your pledge is no longer active. Please renew it to continue using %@ normally." = "";
+
+/* No comment provided by engineer. */
+"“%@” Blocked" = "";
+
+/* No comment provided by engineer. */
+"“%@” could not be added to AltStore." = "";

@@ -4,7 +4,7 @@
 <dict>
 	<key>ALTAppGroups</key>
 	<array>
-		<string>group.com.rileytestut.AltStore</string>
+		<string>group.me.ancal.AltStore</string>
 	</array>
 	<key>ALTDeviceID</key>
 	<string>00008120-001270DA119B401E</string>
@@ -71,7 +71,7 @@
 			<string>AltStore Backup</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>altstore-com.rileytestut.AltStore</string>
+				<string>altstore-me.ancal.AltStore</string>
 			</array>
 		</dict>
 	</array>

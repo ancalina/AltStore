@@ -26,7 +26,7 @@ public extension Source
     #if ALPHA
     static let altStoreSourceURL = URL(string: "https://alpha.altstore.io/")!
     #else
-    static let altStoreSourceURL = URL(string: "https://apps.altstore.io/")!
+    static let altStoreSourceURL = URL(string: "https://raw.githubusercontent.com/ancalina/altkrSource/refs/heads/main/apps.json")!
     #endif
     
     #endif
