@@ -1,0 +1,132 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "DTd-Yu-HXr.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Riley Testut\"; ObjectID = \"DTd-Yu-HXr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Riley Testut"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riley Testut"
+          }
+        }
+      }
+    },
+    "FeG-e5-LJl.text" : {
+      "comment" : "Class = \"UITextView\"; text = \"Hey y'all!\\n\\nIf you'd like to support my work, you can donate here. In return, you'll gain access to beta versions of all of my apps and be among the first to try the latest features.\\n\\nThanks for all your support 💜\\nRiley\"; ObjectID = \"FeG-e5-LJl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hey y'all!\n\nIf you'd like to support my work, you can donate here. In return, you'll gain access to beta versions of all of my apps and be among the first to try the latest features.\n\nThanks for all your support 💜\nRiley"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여러분, 안녕하세요!\n\n제 작업을 지원하고 싶으시다면, 여기에서 후원하실 수 있어요. 후원해주시면, 제가 개발 중인 모든 앱의 베타 버전에 접근할 수 있고, 최신 기능들을 가장 먼저 체험하실 수 있습니다.\n\n항상 응원해주셔서 감사합니다 💜\nRiley"
+          }
+        }
+      }
+    },
+    "g2O-Ve-hrS.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Link Patreon account\"; ObjectID = \"g2O-Ve-hrS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Link Patreon account"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patreon 계정 연결"
+          }
+        }
+      }
+    },
+    "nPA-DN-RTG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Developer\"; ObjectID = \"nPA-DN-RTG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Developer"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개발자"
+          }
+        }
+      }
+    },
+    "VOu-b8-uEL.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Operations\"; ObjectID = \"VOu-b8-uEL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Operations"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "운영자"
+          }
+        }
+      }
+    },
+    "yEi-L6-kQ8.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Become a patron\"; ObjectID = \"yEi-L6-kQ8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Become a patron"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "후원하기"
+          }
+        }
+      }
+    },
+    "Zpb-k3-y7l.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Shane Gill\"; ObjectID = \"Zpb-k3-y7l\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shane Gill"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shane Gill"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

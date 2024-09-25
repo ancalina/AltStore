@@ -1,0 +1,492 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0LW-eE-qHa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"2\"; ObjectID = \"0LW-eE-qHa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
+        }
+      }
+    },
+    "2N5-zd-fUj.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Sign in\"; ObjectID = \"2N5-zd-fUj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign in"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로그인"
+          }
+        }
+      }
+    },
+    "4rk-ge-FSj.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Enable iTunes Wi-Fi Sync and connect to the same Wi-Fi as AltServer.\"; ObjectID = \"4rk-ge-FSj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enable iTunes Wi-Fi Sync and connect to the same Wi-Fi as AltServer."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTunes Wi-Fi 동기화를 활성화하고 AltServer와 동일한 Wi-Fi에 연결하세요."
+          }
+        }
+      }
+    },
+    "5nk-NR-jtV.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"Refresh AltStore\"; ObjectID = \"5nk-NR-jtV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Refresh AltStore"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore 새로고침"
+          }
+        }
+      }
+    },
+    "6HP-Xh-sAH.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Leave AltServer running in the background on your computer.\"; ObjectID = \"6HP-Xh-sAH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Leave AltServer running in the background on your computer."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "컴퓨터에서 AltServer를 백그라운드에서 실행 상태로 유지하세요."
+          }
+        }
+      }
+    },
+    "59N-O1-6bM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"APPLE ID\"; ObjectID = \"59N-O1-6bM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "APPLE ID"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple ID"
+          }
+        }
+      }
+    },
+    "Ava-XY-7vs.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"PASSWORD\"; ObjectID = \"Ava-XY-7vs\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PASSWORD"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호"
+          }
+        }
+      }
+    },
+    "bCq-Jq-gf1.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"How it works\"; ObjectID = \"bCq-Jq-gf1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How it works"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작동 방식"
+          }
+        }
+      }
+    },
+    "DBu-vt-hlo.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"name@email.com\"; ObjectID = \"DBu-vt-hlo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "name@email.com"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "name@email.com"
+          }
+        }
+      }
+    },
+    "EI2-V3-zQZ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Welcome to AltStore.\"; ObjectID = \"EI2-V3-zQZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Welcome to AltStore."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore에 오신걸 환영합니다!"
+          }
+        }
+      }
+    },
+    "esj-pD-D4A.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Connect to Wi-Fi\"; ObjectID = \"esj-pD-D4A\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connect to Wi-Fi"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wi-Fi에 연결"
+          }
+        }
+      }
+    },
+    "HU5-Hv-E3d.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Apps are refreshed in the background when on same Wi-Fi as AltServer.\"; ObjectID = \"HU5-Hv-E3d\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apps are refreshed in the background when on same Wi-Fi as AltServer."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱은 AltServer와 동일한 Wi-Fi에 있을 때 백그라운드에서 새로고침됩니다."
+          }
+        }
+      }
+    },
+    "i2U-NL-plG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"4\"; ObjectID = \"i2U-NL-plG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "4"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4"
+          }
+        }
+      }
+    },
+    "i9V-3h-B8f.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"1\"; ObjectID = \"i9V-3h-B8f\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
+        }
+      }
+    },
+    "JeJ-bk-UCA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Download Apps\"; ObjectID = \"JeJ-bk-UCA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Download Apps"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 다운로드"
+          }
+        }
+      }
+    },
+    "M7T-9j-uyt.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Browse and download apps directly from AltStore.\"; ObjectID = \"M7T-9j-uyt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Browse and download apps directly from AltStore."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore에서 직접 앱을 찾아보고 다운로드하세요."
+          }
+        }
+      }
+    },
+    "nDc-Zs-wnK.title" : {
+      "comment" : "Class = \"UIBarButtonItem\"; title = \"Close\"; ObjectID = \"nDc-Zs-wnK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닫기"
+          }
+        }
+      }
+    },
+    "nvb-Aq-sYa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Apps Refresh Automatically\"; ObjectID = \"nvb-Aq-sYa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apps Refresh Automatically"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자동으로 새로고침"
+          }
+        }
+      }
+    },
+    "nVr-El-Csi.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"3\"; ObjectID = \"nVr-El-Csi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
+        }
+      }
+    },
+    "on2-62-waY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Your Apple ID is used to configure apps so they can be installed on this device. Your credentials will be stored securely in this device's Keychain and sent only to Apple for authentication.\"; ObjectID = \"on2-62-waY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Apple ID is used to configure apps so they can be installed on this device. Your credentials will be stored securely in this device's Keychain and sent only to Apple for authentication."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple ID는 이 기기에 앱을 설치하기 위해 사용됩니다. 자격 증명은 이 기기의 키체인에 안전하게 저장되며, 인증을 위해 Apple에만 전송됩니다."
+          }
+        }
+      }
+    },
+    "p9U-0q-Kn8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Why do we need this?\"; ObjectID = \"p9U-0q-Kn8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Why do we need this?"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이것이 왜 필요한가요?"
+          }
+        }
+      }
+    },
+    "qua-VA-asJ.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Refresh Later\"; ObjectID = \"qua-VA-asJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Refresh Later"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "나중에 새로고침"
+          }
+        }
+      }
+    },
+    "qZ9-AR-2zK.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Got it\"; ObjectID = \"qZ9-AR-2zK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Got it"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인"
+          }
+        }
+      }
+    },
+    "R77-TQ-lVT.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"••••••••\"; ObjectID = \"R77-TQ-lVT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "••••••••"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "••••••••"
+          }
+        }
+      }
+    },
+    "SNU-tv-8Au.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sign in with your Apple ID to get started.\"; ObjectID = \"SNU-tv-8Au\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign in with your Apple ID to get started."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시작하려면 Apple ID로 로그인하세요."
+          }
+        }
+      }
+    },
+    "xcg-hT-tDe.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Refresh Now\"; ObjectID = \"xcg-hT-tDe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Refresh Now"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금 새로고침"
+          }
+        }
+      }
+    },
+    "XKD-XH-eB0.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Launch AltServer\"; ObjectID = \"XKD-XH-eB0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Launch AltServer"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore 실행"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

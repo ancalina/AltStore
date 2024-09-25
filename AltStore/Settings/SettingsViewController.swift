@@ -26,6 +26,7 @@ extension SettingsViewController
         case instructions
         case techyThings
         case credits
+        case localize
         case macDirtyCow
         case debug
     }
@@ -42,6 +43,11 @@ extension SettingsViewController
         case operations
         case designer
         case softwareLicenses
+    }
+    
+    fileprivate enum LocalizeRow: Int, CaseIterable
+    {
+        case korean
     }
     
     fileprivate enum TechyThingsRow: Int, CaseIterable
@@ -652,6 +658,13 @@ extension SettingsViewController
             case .operations: self.openThreads(username: "shanegill.io")
             case .designer: self.openTwitter(username: "1carolinemoore")
             case .softwareLicenses: break
+            }
+            
+        case .localize:
+            let row = LocalizeRow.allCases[indexPath.row]
+            switch row
+            {
+            case .korean: self.openTwitter(username: "taekyungancal")
             }
             
             if let selectedIndexPath = self.tableView.indexPathForSelectedRow

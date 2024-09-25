@@ -1,0 +1,1775 @@
+/* No comment provided by engineer. */
+"%@ %@" = "%@ %@";
+
+/* No comment provided by engineer. */
+"%@ %@ is now available for download." = "%@ %@을(를) 다운로드할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"%@ %@ update. Released on %@." = "%@ %@ 업데이트. %@에 출시되었습니다.";
+
+/* No comment provided by engineer. */
+"%@ a month" = "한 달에 %@";
+
+/* No comment provided by engineer. */
+"%@ App IDs" = "%@개의 앱 ID";
+
+/* No comment provided by engineer. */
+"%@ App IDs Remaining" = "%@개의 앱 ID가 남아 있습니다";
+
+/* No comment provided by engineer. */
+"%@ beta" = "%@ 베타";
+
+/* No comment provided by engineer. */
+"%@ by %@" = "%@에 의해 %@";
+
+/* No comment provided by engineer. */
+"%@ can not jailbreak this device unless you untether it first. Are you sure you want to install without untethering?" = "이 기기를 완탈하지 않으면 탈옥할 수 없습니다. 완탈 없이 설치하시겠습니까?";
+
+/* No comment provided by engineer. */
+"%@ could not be backed up." = "%@를 백업할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"%@ could not be downloaded." = "%@를 다운로드할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"%@ could not be found." = "%@를 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"%@ could not be installed onto %@." = "%@에 %@를 설치할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"%@ could not be installed." = "%@를 설치할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"%@ could not be restored." = "%@를 복원할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"%@ days" = "%@일";
+
+/* No comment provided by engineer. */
+"%@ DAYS" = "%@일";
+
+/* No comment provided by engineer. */
+"%@ does not have any app versions." = "%@에는 앱 버전이 없습니다.";
+
+/* No comment provided by engineer. */
+"%@ does not support iOS %@." = "%@는 iOS %@를 지원하지 않습니다.";
+
+/* No comment provided by engineer. */
+"%@ error %@." = "%@ 오류 %@.";
+
+/* No comment provided by engineer. */
+"%@ failed with code %@." = "%@가 코드 %@로 실패했습니다.";
+
+/* No comment provided by engineer. */
+"%@ failed." = "%@ 실패했습니다.";
+
+/* No comment provided by engineer. */
+"%@ is currently locked." = "%@가 현재 잠겨 있습니다.";
+
+/* No comment provided by engineer. */
+"%@ is inactive." = "%@가 비활성화되어 있습니다.";
+
+/* No comment provided by engineer. */
+"%@ is not added to AltStore." = "%@는 AltStore에 추가되지 않았습니다.";
+
+/* No comment provided by engineer. */
+"%@ is not currently running on %@." = "%@는 현재 %@에서 실행되지 않고 있습니다.";
+
+/* No comment provided by engineer. */
+"%@ is not installed." = "%@가 설치되지 않았습니다.";
+
+/* No comment provided by engineer. */
+"%@ is not running." = "%@가 실행 중이지 않습니다.";
+
+/* No comment provided by engineer. */
+"%@ is running %@ %@, but AltStore requires %@ %@ or later." = "%@에서 %@ %@가 실행 중입니다. 하지만 AltStore는 %@ %@ 이상을 요구합니다.";
+
+/* No comment provided by engineer. */
+"%@ News" = "%@ 뉴스";
+
+/* No comment provided by engineer. */
+"%@ received an invalid request from AltServer." = "%@는 AltServer로부터 유효하지 않은 요청을 받았습니다.";
+
+/* No comment provided by engineer. */
+"%@ requires %@ App IDs, but %@." = "%@는 %@ 앱 ID가 필요하지만, %@입니다.";
+
+/* No comment provided by engineer. */
+"%@ requires %@ or later." = "%@는 %@ 이상이 필요합니다.";
+
+/* No comment provided by engineer. */
+"%@ requires additional permissions not specified by the source." = "%@는 소스에서 지정하지 않은 추가 권한이 필요합니다.";
+
+/* No comment provided by engineer. */
+"%@ requires an active pledge in order to be installed." = "%@를 설치하려면 활성화된 약정이 필요합니다.";
+
+/* No comment provided by engineer. */
+"%@ requires iOS %@ or earlier." = "%@는 iOS %@ 또는 이전 버전이 필요합니다.";
+
+/* No comment provided by engineer. */
+"%@ requires iOS %@ or later." = "%@는 iOS %@ 이상이 필요합니다.";
+
+/* No comment provided by engineer. */
+"%@ requires more permissions than the version that is already installed" = "%@는 이미 설치된 버전보다 더 많은 권한이 필요합니다.";
+
+/* No comment provided by engineer. */
+"%@ returned unexpected output." = "%@가 예기치 않은 출력을 반환했습니다.";
+
+/* No comment provided by engineer. */
+"%@ timed out." = "%@ 시간 초과되었습니다.";
+
+/* No comment provided by engineer. */
+"%@ unexpectedly quit." = "%@가 예기치 않게 종료되었습니다.";
+
+/* No comment provided by engineer. */
+"%@ Unsupported Updates Available" = "%@ 지원되지 않는 업데이트가 있습니다";
+
+/* No comment provided by engineer. */
+"%@ was successfully installed on %@." = "%@가 %@에 성공적으로 설치되었습니다.";
+
+/* No comment provided by engineer. */
+"%@/mo" = "%@/월";
+
+/* No comment provided by engineer. */
+"(Error Code: %@)" = "(오류 코드: %@)";
+
+/* Use Markdown in localized strings! */
+"**Advanced _features_** let you adjust _individual_ styles, but it's still _simple_ to do with **Markdown**." = "**고급 _기능_**을 사용하면 _개별_ 스타일을 조정할 수 있지만, **Markdown**으로도 _간단_하게 할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"1 App ID" = "하나의 앱 ID";
+
+/* No comment provided by engineer. */
+"1 App ID Remaining" = "하나의 앱 ID가 남아 있습니다";
+
+/* No comment provided by engineer. */
+"1 day" = "하루";
+
+/* No comment provided by engineer. */
+"123456" = "123456";
+
+/* Markdown Label */
+"_NSTextView_ with **Markdown**" = "_NSTextView_와 **Markdown**";
+
+/* Rich Text Label */
+"_NSTextView_ with **Rich Text**" = "_NSTextView_와 **리치 텍스트**";
+
+/* Markdown Label */
+"_UITextView_ with **Markdown**" = "_UITextView_와 **Markdown**";
+
+/* Rich Text Label */
+"_UITextView_ with **Rich Text**" = "_UITextView_와 **리치 텍스트**";
+
+/* No comment provided by engineer. */
+"A connection to AltServer could not be established." = "AltServer와의 연결을 설정할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"A permission for %@ is missing a usage description." = "%@의 사용 설명이 누락된 권한이 있습니다.";
+
+/* No comment provided by engineer. */
+"A personalized Developer Disk is already mounted." = "개인화된 개발자 디스크가 이미 마운트되었습니다.";
+
+/* No comment provided by engineer. */
+"A placeholder app needs to be installed in order to prepare your device for untethering.\n\nThis may take a few moments." = "기기를 완탈하려면 플레이스홀더 앱을 설치해야 합니다.\n\n잠시 시간이 걸릴 수 있습니다.";
+
+/* No comment provided by engineer. */
+"A random error occured." = "무작위 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"A required dependency" = "필수 종속성";
+
+/* No comment provided by engineer. */
+"A source cannot change its identifier once added. This source can no longer be updated." = "추가된 소스는 식별자를 변경할 수 없습니다. 이 소스는 더 이상 업데이트할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"A source with the identifier '%@' already exists" = "식별자 '%@'을(를) 가진 소스가 이미 존재합니다.";
+
+/* No comment provided by engineer. */
+"A valid signing certificate could not be created." = "유효한 서명 인증서를 생성할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"About" = "정보";
+
+/* No comment provided by engineer. */
+"ACCOUNT" = "계정";
+
+/* No comment provided by engineer. */
+"ACTIVATE" = "활성화";
+
+/* No comment provided by engineer. */
+"Activate" = "활성화";
+
+/* No comment provided by engineer. */
+"Activate %@" = "%@ 활성화";
+
+/* No comment provided by engineer. */
+"Activate %@ Failed" = "%@ 활성화 실패";
+
+/* No comment provided by engineer. */
+"Active" = "활성화됨";
+
+/* No comment provided by engineer. */
+"ADD" = "추가";
+
+/* No comment provided by engineer. */
+"Add More Sources!" = "더 많은 소스 추가!";
+
+/* No comment provided by engineer. */
+"Add Source" = "소스 추가";
+
+/* No comment provided by engineer. */
+"Additional Permissions" = "추가 권한";
+
+/* No comment provided by engineer. */
+"all apps downloaded from it." = "해당 소스에서 다운로드된 모든 앱";
+
+/* No comment provided by engineer. */
+"All apps have been refreshed." = "모든 앱이 새로고침되었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer" = "AltServer";
+
+/* No comment provided by engineer. */
+"AltServer could not be found." = "AltServer를 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not connect to Mail plug-in." = "AltServer가 메일 플러그인에 연결할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not establish a connection to AltStore." = "AltServer가 AltStore에 연결을 설정할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not establish a secure connection to %@." = "AltServer가 %@에 안전한 연결을 설정할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not fetch new provisioning profiles." = "AltServer가 새로운 프로비저닝 프로필을 가져올 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not find this device." = "AltServer가 이 기기를 찾을 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not retrieve %@." = "AltServer가 %@를 가져올 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not retrieve anisette data from AOSKit." = "AltServer가 AOSKit에서 애니셋 데이터를 가져올 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not sign in with your Apple ID." = "AltServer가 Apple ID로 로그인할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer could not write data to this device." = "AltServer가 이 기기에 데이터를 쓸 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltServer does not support this request." = "AltServer는 이 요청을 지원하지 않습니다.";
+
+/* No comment provided by engineer. */
+"AltServer received an invalid request." = "AltServer가 유효하지 않은 요청을 받았습니다.";
+
+/* No comment provided by engineer. */
+"AltServer received an invalid response from %@." = "AltServer가 %@로부터 유효하지 않은 응답을 받았습니다.";
+
+/* No comment provided by engineer. */
+"AltServer requires additional dependencies to enable JIT on iOS 17." = "AltServer는 iOS 17에서 JIT을 활성화하려면 추가 종속성이 필요합니다.";
+
+/* No comment provided by engineer. */
+"AltServer Running" = "AltServer 실행 중입니다.";
+
+/* No comment provided by engineer. */
+"AltServer runs in the background as a menu bar app listening for AltStore." = "AltServer는 AltStore를 대기하면서 메뉴바 앱으로 백그라운드에서 실행됩니다.";
+
+/* No comment provided by engineer. */
+"AltServer sent an invalid response." = "AltServer가 유효하지 않은 응답을 보냈습니다.";
+
+/* No comment provided by engineer. */
+"AltServer's connection to %@ timed out." = "AltServer의 %@와의 연결이 시간 초과되었습니다.";
+
+/* No comment provided by engineer. */
+"AltStore" = "AltStore";
+
+/* No comment provided by engineer. */
+"AltStore can only install marketplace apps that have been notarized by Apple." = "AltStore는 Apple에 의해 공증된 마켓플레이스 앱만 설치할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"AltStore could not determine this device's UDID." = "AltStore가 이 기기의 UDID를 확인할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltStore does not have detailed information for these entitlements." = "AltStore에는 이러한 권한에 대한 자세한 정보가 없습니다.";
+
+/* No comment provided by engineer. */
+"AltStore Expiring Soon" = "AltStore 만료 예정";
+
+/* No comment provided by engineer. */
+"AltStore News" = "AltStore 뉴스";
+
+/* No comment provided by engineer. */
+"AltStore received an unknown response from AltServer." = "AltStore가 AltServer로부터 알 수 없는 응답을 받았습니다.";
+
+/* No comment provided by engineer. */
+"AltStore was denied permission to launch %@." = "AltStore가 %@ 실행 권한을 거부당했습니다.";
+
+/* No comment provided by engineer. */
+"AltStore was unable to use an existing signing certificate, so it had to create a new one. This will cause any apps installed with an existing certificate to expire — including AltStore.\n\nTo prevent AltStore from expiring early, please refresh the app now. AltStore will quit once refreshing is complete." = "AltStore는 기존 서명 인증서를 사용할 수 없었기 때문에 새로운 인증서를 생성해야 했습니다. 이로 인해 AltStore를 포함한 기존 인증서로 설치된 모든 앱이 만료됩니다.\n\nAltStore가 조기 만료되지 않도록, 지금 앱을 새로 고침하세요. 새로 고침이 완료되면 AltStore가 종료됩니다.";
+
+/* No comment provided by engineer. */
+"AltStore will expire in 24 hours. Open the app and refresh it to prevent it from expiring." = "AltStore는 24시간 내에 만료됩니다. 만료를 방지하려면 앱을 열고 새로 고침하세요.";
+
+/* No comment provided by engineer. */
+"AltStore's database could not be saved." = "AltStore의 데이터베이스를 저장할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"AltStore's shared app group could not be accessed." = "AltStore의 공유 앱 그룹에 접근할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"an app in source “%@”" = "소스 “%@”의 앱";
+
+/* No comment provided by engineer. */
+"An app-specific password is required. You can create one at appleid.apple.com." = "앱 전용 비밀번호가 필요합니다. appleid.apple.com에서 생성할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"An error occured while removing the app." = "앱을 제거하는 동안 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"An error occurred while installing the app." = "앱을 설치하는 중에 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"An iPad screenshot for %@ does not specify its size" = "%@에 대한 iPad 스크린샷에 크기가 지정되지 않았습니다.";
+
+/* No comment provided by engineer. */
+"An unknown error occured." = "알 수 없는 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"An unknown error occurred." = "알 수 없는 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"anisette data values." = "anisette 데이터 값.";
+
+/* No comment provided by engineer. */
+"Any apps you've installed from this source will remain, but they'll no longer receive any app updates." = "이 소스에서 설치한 앱은 유지되지만, 더 이상 앱 업데이트를 받지 않습니다.";
+
+/* Rich Text Help */
+"Any changes made in _this view_ will be reflected in the **Markdown** view" = "_이 뷰_에서 변경된 사항은 **Markdown** 뷰에 반영됩니다.";
+
+/* Markdown Help */
+"Any changes made in _this view_ will be reflected in the **Rich Text** view" = "_이 뷰_에서 변경된 사항은 **리치 텍스트** 뷰에 반영됩니다.";
+
+/* No comment provided by engineer. */
+"App" = "앱";
+
+/* No comment provided by engineer. */
+"App Contains Extensions" = "앱에 확장 기능 포함";
+
+/* No comment provided by engineer. */
+"app extension" = "앱 확장";
+
+/* No comment provided by engineer. */
+"app extensions" = "앱 확장";
+
+/* No comment provided by engineer. */
+"App group does not exist" = "앱 그룹이 존재하지 않습니다.";
+
+/* No comment provided by engineer. */
+"App Refresh Tip" = "앱 새로고침 팁";
+
+/* No comment provided by engineer. */
+"App with bundle ID '%@' does not exist in source JSON." = "번들 ID '%@'을(를) 가진 앱이 소스 JSON에 존재하지 않습니다.";
+
+/* No comment provided by engineer. */
+"Apple ID" = "Apple ID";
+
+/* No comment provided by engineer. */
+"Approve" = "승인";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear AltStore's cache?" = "AltStore의 캐시를 정말로 지우시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear the error log?" = "오류 로그를 정말로 지우시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove the source “%@”?" = "소스 “%@”을(를) 정말로 제거하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to restore this backup?" = "이 백업을 정말로 복원하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to sign out?" = "정말로 로그아웃하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to uninstall the AltServer Mail plug-in?" = "AltServer 메일 플러그인을 정말로 제거하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to unlink your Patreon account?" = "Patreon 계정을 정말로 연결 해제하시겠습니까?";
+
+/* No comment provided by engineer. */
+"At least one app" = "최소 하나의 앱";
+
+/* No comment provided by engineer. */
+"Back Up" = "백업";
+
+/* No comment provided by engineer. */
+"Back Up %@" = "%@ 백업";
+
+/* No comment provided by engineer. */
+"Backing up app data…" = "앱 데이터를 백업하는 중…";
+
+/* No comment provided by engineer. */
+"Backup %@ Failed" = "%@ 백업 실패";
+
+/* No comment provided by engineer. */
+"Become a patron" = "후원자가 되기";
+
+/* No comment provided by engineer. */
+"Browse" = "탐색";
+
+/* No comment provided by engineer. */
+"Cancel" = "취소";
+
+/* No comment provided by engineer. */
+"Cannot Activate More than 3 Apps" = "앱 3개 이상을 활성화할 수 없습니다";
+
+/* No comment provided by engineer. */
+"Cannot Activate More than 3 Apps and App Extensions" = "앱 및 앱 확장을 3개 이상 활성화할 수 없습니다";
+
+/* No comment provided by engineer. */
+"Cannot Send Mail" = "메일을 보낼 수 없습니다";
+
+/* No comment provided by engineer. */
+"CarPlay" = "CarPlay";
+
+/* No comment provided by engineer. */
+"Categories" = "카테고리";
+
+/* No comment provided by engineer. */
+"Change App Icon" = "앱 아이콘 변경";
+
+/* No comment provided by engineer. */
+"Change Icon" = "아이콘 변경";
+
+/* No comment provided by engineer. */
+"Classic" = "클래식";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "캐시 지우기";
+
+/* No comment provided by engineer. */
+"Clear Error Log" = "오류 로그 지우기";
+
+/* No comment provided by engineer. */
+"Connect Patreon Account" = "Patreon 계정 연결";
+
+/* No comment provided by engineer. */
+"Connection error code: %@" = "연결 오류 코드: %@";
+
+/* No comment provided by engineer. */
+"Continue" = "계속";
+
+/* No comment provided by engineer. */
+"Continue in App" = "앱에서 계속";
+
+/* No comment provided by engineer. */
+"Copy Error Code" = "오류 코드 복사";
+
+/* No comment provided by engineer. */
+"Copy Error Message" = "오류 메시지 복사";
+
+/* No comment provided by engineer. */
+"Could not attach debugger to %@." = "%@에 디버거를 연결할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not back up jailbreak app." = "탈옥 앱을 백업할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not back up “%@”." = "“%@”을(를) 백업할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not connect to device \(self.udid)." = "기기 \(self.udid)에 연결할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Could not copy provisioning profiles." = "프로비저닝 프로필을 복사할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not detach debugger from \(self.process)." = "\(self.process)에서 디버거를 분리할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not download OTA archive." = "OTA 아카이브를 다운로드할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not enable JIT for %@" = "%@에 대해 JIT을 활성화할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not extract Spotlight from OTA archive." = "OTA 아카이브에서 Spotlight를 추출할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not find matching provisioning profile." = "일치하는 프로비저닝 프로필을 찾을 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not find profile" = "프로필을 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Could not install %@ placeholder." = "%@ 플레이스홀더를 설치할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not install %@." = "%@를 설치할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not install profile “%@”" = "프로필 “%@”을(를) 설치할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not open %@ placeholder." = "%@ 플레이스홀더를 열 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not open %@." = "%@를 열 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not patch %@ placeholder." = "%@ 플레이스홀더를 패치할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not remove profile “%@”" = "프로필 “%@”을(를) 제거할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not remove “%@”." = "“%@”을(를) 제거할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not restore “%@”." = "“%@”을(를) 복원할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"Could not start debugserver on device \(self.udid)." = "기기 \(self.udid)에서 디버그 서버를 시작할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"CREDITS" = "크레딧";
+
+/* No comment provided by engineer. */
+"Custom Pledge" = "맞춤 서약";
+
+/* No comment provided by engineer. */
+"Deactivate" = "비활성화";
+
+/* No comment provided by engineer. */
+"Deactivate %@ Failed" = "%@ 비활성화 실패";
+
+/* No comment provided by engineer. */
+"Debug" = "디버그";
+
+/* No comment provided by engineer. */
+"DEBUG" = "디버그";
+
+/* No comment provided by engineer. */
+"Debug Description" = "디버그 설명";
+
+/* No comment provided by engineer. */
+"Default" = "기본값";
+
+/* No comment provided by engineer. */
+"Delete" = "삭제";
+
+/* No comment provided by engineer. */
+"Delete sideloaded apps to free up App ID slots." = "App ID 슬롯을 확보하려면 사이드로딩된 앱을 삭제하세요.";
+
+/* No comment provided by engineer. */
+"Developer" = "개발자";
+
+/* No comment provided by engineer. */
+"DeveloperDiskImage.dmg and its signature could not be found in the downloaded archive." = "다운로드된 아카이브에서 DeveloperDiskImage.dmg와 서명을 찾을 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"DISPLAY" = "디스플레이";
+
+/* No comment provided by engineer. */
+"Download %@" = "%@ 다운로드";
+
+/* No comment provided by engineer. */
+"Download %@ %@" = "%@ %@ 다운로드";
+
+/* No comment provided by engineer. */
+"Downloading %@…" = "%@ 다운로드 중…";
+
+/* No comment provided by engineer. */
+"Downloading iOS firmware..." = "iOS 펌웨어 다운로드 중...";
+
+/* No comment provided by engineer. */
+"duplicate versions" = "중복 버전";
+
+/* No comment provided by engineer. */
+"Each app and app extension installed with AltStore must register an App ID with Apple. Apple limits non-developer Apple IDs to 10 App IDs at a time.\n\n**App IDs can't be deleted**, but they do expire after one week. AltStore will automatically renew App IDs for all active apps once they've expired." = "AltStore로 설치된 각 앱과 앱 확장은 Apple에 App ID를 등록해야 합니다. Apple은 비개발자 Apple ID에 대해 한 번에 10개의 App ID만 허용합니다.\n\n**App ID는 삭제할 수 없지만**, 일주일 후 만료됩니다. AltStore는 만료된 후 자동으로 모든 활성 앱의 App ID를 갱신합니다.";
+
+/* No comment provided by engineer. */
+"Each app and app extension installed with AltStore must register an App ID with Apple.\n\nApp IDs for paid developer accounts never expire, and there is no limit to how many you can create." = "AltStore로 설치된 각 앱과 확장은 Apple에 App ID를 등록해야 합니다.\n\n유료 개발자 계정의 App ID는 만료되지 않으며, 생성할 수 있는 개수에 제한이 없습니다.";
+
+/* No comment provided by engineer. */
+"Enable Background Refresh to automatically refresh apps in the background when connected to the same Wi-Fi as AltServer." = "AltServer와 동일한 Wi-Fi에 연결되어 있을 때 백그라운드에서 앱을 자동으로 새로 고치려면 백그라운드 새로 고침을 활성화하세요.";
+
+/* No comment provided by engineer. */
+"Enable JIT" = "JIT 활성화";
+
+/* No comment provided by engineer. */
+"Enable JIT for %@ Failed" = "%@에 대해 JIT 활성화 실패";
+
+/* No comment provided by engineer. */
+"Enabled JIT for %@" = "%@에 대해 JIT이 활성화되었습니다";
+
+/* No comment provided by engineer. */
+"Enter a source's URL below, or add one of the recommended sources." = "소스 URL을 아래에 입력하거나 추천 소스를 추가하세요.";
+
+/* No comment provided by engineer. */
+"Entertainment" = "엔터테인먼트";
+
+/* No comment provided by engineer. */
+"Entitlement" = "권한";
+
+/* No comment provided by engineer. */
+"Entitlements are additional permissions that grant access to certain system services, including potentially sensitive information." = "권한은 잠재적으로 민감한 정보를 포함하여 특정 시스템 서비스에 대한 액세스를 부여하는 추가 권한입니다.";
+
+/* No comment provided by engineer. */
+"Error" = "오류";
+
+/* No comment provided by engineer. */
+"Error code: %@" = "오류 코드: %@";
+
+/* No comment provided by engineer. */
+"Error Description" = "오류 설명";
+
+/* No comment provided by engineer. */
+"Error Details" = "오류 세부 사항";
+
+/* No comment provided by engineer. */
+"Error Loading Patrons" = "Patreon 후원자 로드 오류";
+
+/* No comment provided by engineer. */
+"Errors that occur when sideloading or refreshing apps will appear here." = "사이드로딩 또는 앱 새로 고침 중 발생한 오류는 여기 표시됩니다.";
+
+/* No comment provided by engineer. */
+"Expires in" = "만료까지";
+
+/* No comment provided by engineer. */
+"Expires in %@" = "%@ 후 만료";
+
+/* No comment provided by engineer. */
+"Expires in %@." = "%@ 후 만료됩니다.";
+
+/* No comment provided by engineer. */
+"Export Backup" = "백업 내보내기";
+
+/* No comment provided by engineer. */
+"Failed to Activate %@" = "%@ 활성화 실패";
+
+/* No comment provided by engineer. */
+"Failed to Back Up %@" = "%@ 백업 실패";
+
+/* No comment provided by engineer. */
+"Failed to Clear Error Log" = "오류 로그 지우기 실패";
+
+/* No comment provided by engineer. */
+"Failed to Deactivate %@" = "%@ 비활성화 실패";
+
+/* No comment provided by engineer. */
+"Failed to Enable JIT for %@" = "%@에 대해 JIT 활성화 실패";
+
+/* No comment provided by engineer. */
+"Failed to Install %@" = "%@ 설치 실패";
+
+/* No comment provided by engineer. */
+"Failed to install Mail plug-in." = "메일 플러그인 설치 실패";
+
+/* No comment provided by engineer. */
+"Failed to Log In" = "로그인 실패";
+
+/* No comment provided by engineer. */
+"Failed to perform authentication handshake with server." = "서버와의 인증 핸드셰이크 수행 실패";
+
+/* No comment provided by engineer. */
+"Failed to Refresh %@" = "%@ 새로 고침 실패";
+
+/* No comment provided by engineer. */
+"Failed to refresh %@ apps." = "%@개의 앱 새로 고침 실패";
+
+/* No comment provided by engineer. */
+"Failed to refresh 1 app." = "앱 한개 새로 고침 실패";
+
+/* No comment provided by engineer. */
+"Failed to Refresh AltStore" = "AltStore 새로 고침 실패";
+
+/* No comment provided by engineer. */
+"Failed to Refresh Apps" = "앱 새로 고침 실패";
+
+/* No comment provided by engineer. */
+"Failed to Restore %@ Backup" = "%@ 백업 복원 실패";
+
+/* No comment provided by engineer. */
+"Failed to Uninstall Mail Plug-in" = "메일 플러그인 제거 실패";
+
+/* No comment provided by engineer. */
+"Failed to Update %@" = "%@ 업데이트 실패";
+
+/* No comment provided by engineer. */
+"Failure" = "실패";
+
+/* No comment provided by engineer. */
+"Failure Reason" = "실패 이유";
+
+/* No comment provided by engineer. */
+"Fault" = "결함";
+
+/* No comment provided by engineer. */
+"Featured" = "추천";
+
+/* No comment provided by engineer. */
+"Featured Apps" = "추천 앱";
+
+/* No comment provided by engineer. */
+"Finish in %@" = "%@ 안에 완료";
+
+/* No comment provided by engineer. */
+"Finish installing %@?" = "%@ 설치를 완료하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Follow the instructions in %@ to finish jailbreaking this device." = "%@의 지침을 따라 이 기기의 탈옥을 완료하세요.";
+
+/* No comment provided by engineer. */
+"For your protection, please remove the source and uninstall" = "사용자 보호를 위해 소스를 제거하고 앱을 삭제하세요.";
+
+/* No comment provided by engineer. */
+"Free" = "무료";
+
+/* No comment provided by engineer. */
+"Free Developer Account" = "무료 개발자 계정";
+
+/* No comment provided by engineer. */
+"Free up disk space by removing non-essential data, such as temporary files and backups for uninstalled apps." = "임시 파일과 제거된 앱의 백업과 같은 비필수 데이터를 삭제하여 디스크 공간을 확보하세요.";
+
+/* No comment provided by engineer. */
+"Games" = "게임";
+
+/* No comment provided by engineer. */
+"Gradient" = "그라디언트";
+
+/* No comment provided by engineer. */
+"Hash:\n%@\n\nExpected Hash:\n%@" = "해시:\n%@\n\n예상 해시:\n%@";
+
+/* No comment provided by engineer. */
+"Hey ,\n\nYou’re the best. Your account was linked successfully, so you now have access to the beta versions of all of our apps. You can find them all in the Browse tab.\n\nThanks for all of your support. Enjoy!\nRiley & Shane" = "안녕하세요,\n\n정말 최고예요. 계정이 성공적으로 연결되었고, 이제 모든 앱의 베타 버전에 접근할 수 있습니다. '탐색' 탭에서 모두 확인하실 수 있습니다.\n\n지원을 해주셔서 감사합니다. 즐기세요!\nRiley & Shane";
+
+/* No comment provided by engineer. */
+"Hey y'all,\n\nYou can support future development of our apps by donating to us on Patreon. In return, you'll receive access to the beta versions of our apps and be among the first to try the latest features.\n\nThanks for all your support 💜\nRiley & Shane" = "안녕하세요 여러분,\n\nPatreon을 통해 기부하여 저희 앱의 향후 개발을 지원할 수 있습니다. 그 대가로, 앱의 베타 버전에 접근할 수 있으며 최신 기능을 가장 먼저 체험할 수 있습니다.\n\n모든 지원에 감사드립니다 💜\nRiley & Shane";
+
+/* No comment provided by engineer. */
+"If you're using the MacDirtyCow exploit to remove the 3-app limit, you can install up to 10 apps and app extensions instead." = "MacDirtyCow 익스플로잇을 사용하여 3개의 앱 제한을 제거했다면, 최대 10개의 앱 및 확장을 설치할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"If you've removed the 3-sideloaded app limit via the MacDirtyCow exploit, disable this setting to sideload more than 3 apps at a time." = "MacDirtyCow 익스플로잇으로 3개의 사이드로딩 앱 제한을 제거한 경우, 이 설정을 비활성화하여 한 번에 3개 이상의 앱을 사이드로딩할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"In order to finish jailbreaking this device, you need to install %@ then follow the instructions in the app." = "이 기기의 탈옥을 완료하려면 %@을(를) 설치한 후, 앱에서 지침을 따르세요.";
+
+/* No comment provided by engineer. */
+"Inactive" = "비활성화됨";
+
+/* No comment provided by engineer. */
+"Incorrect verification code." = "잘못된 인증 코드입니다.";
+
+/* No comment provided by engineer. */
+"Info" = "정보";
+
+/* No comment provided by engineer. */
+"Install" = "설치";
+
+/* No comment provided by engineer. */
+"Install %@" = "%@ 설치";
+
+/* No comment provided by engineer. */
+"Install %@ Failed" = "%@ 설치 실패";
+
+/* No comment provided by engineer. */
+"Install Untethered Jailbreak" = "완탈 설치";
+
+/* No comment provided by engineer. */
+"Install Without Untethering" = "완탈 없이 설치";
+
+/* No comment provided by engineer. */
+"Installation Succeeded" = "설치 성공";
+
+/* No comment provided by engineer. */
+"Installed" = "설치됨";
+
+/* No comment provided by engineer. */
+"Installing %@ placeholder…" = "%@ 플레이스홀더 설치 중…";
+
+/* No comment provided by engineer. */
+"Installing %@ to %@..." = "%@를 %@에 설치 중...";
+
+/* No comment provided by engineer. */
+"Installing %@..." = "%@ 설치 중...";
+
+/* No comment provided by engineer. */
+"Installing this app will revoke your iOS development certificate." = "이 앱을 설치하면 iOS 개발자 인증서가 취소됩니다.";
+
+/* No comment provided by engineer. */
+"Invalid access token." = "유효하지 않은 액세스 토큰입니다.";
+
+/* No comment provided by engineer. */
+"Invalid parameters." = "잘못된 매개변수입니다.";
+
+/* No comment provided by engineer. */
+"iOS" = "iOS";
+
+/* No comment provided by engineer. */
+"iOS %@ or earlier" = "iOS %@ 또는 이전 버전";
+
+/* No comment provided by engineer. */
+"iOS %@ or later" = "iOS %@ 또는 이후 버전";
+
+/* No comment provided by engineer. */
+"Jailbreak Requires Untethering" = "탈옥에는 완탈이 필요합니다";
+
+/* No comment provided by engineer. */
+"Jailbreak Supports Untethering" = "탈옥이 완탈을 지원합니다";
+
+/* No comment provided by engineer. */
+"JIT could not be enabled for %@." = "%@에 대해 JIT을 활성화할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"JIT will remain enabled until you quit the app." = "앱을 종료할 때까지 JIT이 활성화된 상태로 유지됩니다.";
+
+/* No comment provided by engineer. */
+"JIT will remain enabled until you quit the app. You can now disconnect %@ from your computer." = "앱을 종료할 때까지 JIT이 활성화된 상태로 유지됩니다. 이제 %@를 컴퓨터에서 분리할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"Join Patreon" = "Patreon 가입";
+
+/* No comment provided by engineer. */
+"Keep App Extensions" = "앱 확장 유지";
+
+/* No comment provided by engineer. */
+"Last Updated" = "마지막 업데이트";
+
+/* No comment provided by engineer. */
+"Last Updated: %@" = "마지막 업데이트: %@";
+
+/* No comment provided by engineer. */
+"Lifestyle" = "라이프스타일";
+
+/* No comment provided by engineer. */
+"Link Patreon account" = "Patreon 계정 연결";
+
+/* No comment provided by engineer. */
+"Loading..." = "로딩 중...";
+
+/* No comment provided by engineer. */
+"MACDIRTYCOW" = "MACDIRTYCOW";
+
+/* No comment provided by engineer. */
+"Mail plug-in installation was cancelled." = "메일 플러그인 설치가 취소되었습니다.";
+
+/* No comment provided by engineer. */
+"Mail Plug-in Uninstalled" = "메일 플러그인 제거됨";
+
+/* No comment provided by engineer. */
+"Make sure Mail is running and the plug-in is enabled in Mail's preferences." = "Mail이 실행 중이며 플러그인이 Mail 환경설정에서 활성화되어 있는지 확인하세요.";
+
+/* No comment provided by engineer. */
+"Make sure the app is running in the foreground on %@ then try again." = "앱이 %@에서 포그라운드에서 실행 중인지 확인한 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Make sure the app is running in the foreground on your device then try again." = "기기에서 앱이 포그라운드에서 실행 중인지 확인한 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Make sure this computer's date & time matches your iOS device and try again." = "이 컴퓨터의 날짜와 시간이 iOS 기기와 일치하는지 확인한 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Make sure to only add sources that you trust." = "신뢰할 수 있는 소스만 추가하세요.";
+
+/* No comment provided by engineer. */
+"Make sure you have trusted this device with your computer and Wi-Fi sync is enabled." = "이 기기를 컴퓨터에서 신뢰할 수 있도록 설정하고 Wi-Fi 동기화가 활성화되어 있는지 확인하세요.";
+
+/* No comment provided by engineer. */
+"Make sure you're on the same Wi-Fi network as a computer running AltServer, or try connecting this device to your computer via USB." = "AltServer가 실행 중인 컴퓨터와 동일한 Wi-Fi 네트워크에 있는지 확인하거나, 이 기기를 USB로 컴퓨터에 연결해보세요.";
+
+/* No comment provided by engineer. */
+"Make sure your computer's date & time matches your iOS device and try again. You may need to re-install AltStore with AltServer if the problem persists." = "컴퓨터의 날짜와 시간이 iOS 기기와 일치하는지 확인한 후 다시 시도하세요. 문제가 지속되면 AltServer를 사용하여 AltStore를 다시 설치해야 할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"Missing AltJIT Dependencies" = "AltJIT 종속성 누락";
+
+/* No comment provided by engineer. */
+"Modern" = "모던";
+
+/* No comment provided by engineer. */
+"More" = "더보기";
+
+/* No comment provided by engineer. */
+"Multiple AltServers Not Supported" = "다중 AltServer는 지원되지 않습니다";
+
+/* No comment provided by engineer. */
+"Name" = "이름";
+
+/* No comment provided by engineer. */
+"Never" = "절대 안 함";
+
+/* No comment provided by engineer. */
+"New & Updated" = "새로운 및 업데이트됨";
+
+/* No comment provided by engineer. */
+"New Update Available" = "새로운 업데이트가 있습니다";
+
+/* No comment provided by engineer. */
+"No active apps require refreshing." = "새로 고침이 필요한 활성화된 앱이 없습니다.";
+
+/* No comment provided by engineer. */
+"No Apps" = "앱 없음";
+
+/* No comment provided by engineer. */
+"No Connected Devices" = "연결된 기기 없음";
+
+/* No comment provided by engineer. */
+"No connected Patreon account." = "연결된 Patreon 계정이 없습니다.";
+
+/* No comment provided by engineer. */
+"No Errors" = "오류 없음";
+
+/* No comment provided by engineer. */
+"No Refresh Attempts" = "새로 고침 시도 없음";
+
+/* No comment provided by engineer. */
+"No Sideloaded Apps" = "사이드로딩된 앱 없음";
+
+/* No comment provided by engineer. */
+"No Updates Available" = "사용 가능한 업데이트 없음";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps and app extensions, and “%@” contains %@ %@. Please choose an app to deactivate." = "비개발자 Apple ID는 3개의 활성 앱 및 확장으로 제한되며, “%@”에는 %@ %@이(가) 포함되어 있습니다. 비활성화할 앱을 선택하세요.";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps and app extensions." = "비개발자 Apple ID는 3개의 활성화된 앱 및 앱 확장으로 제한됩니다.";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps and app extensions. Please choose an app to deactivate." = "비개발자 Apple ID는 3개의 활성화된 앱 및 앱 확장으로 제한됩니다. 비활성화할 앱을 선택하세요.";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 active apps. Please choose an app to deactivate." = "비개발자 Apple ID는 3개의 활성화된 앱으로 제한됩니다. 비활성화할 앱을 선택하세요.";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 apps and app extensions. Inactive apps don't count towards your total, but cannot be opened until activated." = "비개발자 Apple ID는 3개의 앱과 앱 확장으로 제한됩니다. 비활성화된 앱은 총 개수에 포함되지 않지만, 활성화될 때까지 열 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to 3 apps. Inactive apps are backed up and uninstalled so they don't count towards your total, but will be reinstalled with all their data when activated again." = "비개발자 Apple ID는 3개의 앱으로 제한됩니다. 비활성화된 앱은 백업되고 삭제되며, 총 개수에 포함되지 않지만 다시 활성화되면 모든 데이터와 함께 다시 설치됩니다.";
+
+/* No comment provided by engineer. */
+"Non-developer Apple IDs are limited to creating 10 App IDs per week." = "비개발자 Apple ID는 일주일에 10개의 App ID만 생성할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"none are available" = "사용 가능한 항목이 없습니다";
+
+/* No comment provided by engineer. */
+"Notice" = "알림";
+
+/* No comment provided by engineer. */
+"OK" = "확인";
+
+/* No comment provided by engineer. */
+"one or more apps" = "하나 이상의 앱";
+
+/* No comment provided by engineer. */
+"One or more apps in source “%@” are missing a marketplaceID. This most likely means they are not notarized, which is not supported by this version of AltStore." = "소스 “%@”에 있는 하나 이상의 앱에 marketplaceID가 누락되었습니다. 이는 대부분 해당 앱이 공증되지 않았음을 의미하며, 이 버전의 AltStore에서는 지원되지 않습니다.";
+
+/* No comment provided by engineer. */
+"only %@ are available" = "사용 가능한 것은 %@개입니다";
+
+/* No comment provided by engineer. */
+"only 1 is available" = "사용 가능한 것은 하나입니다";
+
+/* No comment provided by engineer. */
+"Open" = "열기";
+
+/* No comment provided by engineer. */
+"Open %@" = "%@ 열기";
+
+/* No comment provided by engineer. */
+"Open Placeholder" = "플레이스홀더 열기";
+
+/* No comment provided by engineer. */
+"Operation Failed" = "작업 실패";
+
+/* No comment provided by engineer. */
+"Organization" = "조직";
+
+/* No comment provided by engineer. */
+"Other" = "기타";
+
+/* No comment provided by engineer. */
+"Other Entitlements" = "기타 권한";
+
+/* No comment provided by engineer. */
+"Password" = "비밀번호";
+
+/* No comment provided by engineer. */
+"Patch Placeholder" = "플레이스홀더 패치";
+
+/* No comment provided by engineer. */
+"Patching %@ placeholder…" = "%@ 플레이스홀더 패치 중…";
+
+/* No comment provided by engineer. */
+"Patching placeholder app..." = "플레이스홀더 앱 패치 중...";
+
+/* No comment provided by engineer. */
+"PATREON" = "PATREON";
+
+/* No comment provided by engineer. */
+"Patreon Account Detected" = "Patreon 계정 감지됨";
+
+/* No comment provided by engineer. */
+"Permission" = "권한";
+
+/* No comment provided by engineer. */
+"Personalize your AltStore experience by choosing an alternate app icon." = "대체 앱 아이콘을 선택하여 AltStore 경험을 개인화하세요.";
+
+/* No comment provided by engineer. */
+"Photo & Video" = "사진 및 비디오";
+
+/* No comment provided by engineer. */
+"Photos" = "사진";
+
+/* No comment provided by engineer. */
+"Please deactivate a sideloaded app in order to install another one.\n\nIf you're running iOS 13.5 or later, make sure “Offload Unused Apps” is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps." = "다른 앱을 설치하려면 사이드로딩된 앱을 비활성화하세요.\n\niOS 13.5 이상을 실행 중이라면, 설정 > iTunes 및 App Store에서 '사용하지 않는 앱 자동 삭제'가 비활성화되어 있는지 확인한 후 오프로드된 모든 앱을 설치하거나 삭제하세요.";
+
+/* No comment provided by engineer. */
+"Please deactivate a sideloaded app with AltStore in order to install another app.\n\nIf you're running iOS 13.5 or later, make sure 'Offload Unused Apps' is disabled in Settings > iTunes & App Stores, then install or delete all offloaded apps to prevent them from erroneously counting towards this limit." = "다른 앱을 설치하려면 AltStore에서 사이드로딩된 앱을 비활성화하세요.\n\niOS 13.5 이상을 실행 중이라면, 설정 > iTunes 및 App Store에서 '사용하지 않는 앱 자동 삭제'가 비활성화되어 있는지 확인한 후 오프로드된 모든 앱을 설치하거나 삭제하여 이 제한에 포함되지 않도록 하세요.";
+
+/* No comment provided by engineer. */
+"Please enter the 6-digit verification code that was sent to your Apple devices." = "Apple 기기로 전송된 6자리 인증 코드를 입력하세요.";
+
+/* No comment provided by engineer. */
+"Please enter your Apple ID and password." = "Apple ID와 비밀번호를 입력하세요.";
+
+/* No comment provided by engineer. */
+"Please follow the instructions on the AltStore FAQ to install all required dependencies, then try again." = "AltStore FAQ의 지침을 따라 필요한 모든 종속성을 설치한 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Please make sure you entered both your Apple ID and password correctly and try again." = "Apple ID와 비밀번호를 정확히 입력했는지 확인한 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Please make sure your spelling is correct, or try searching for another app." = "철자가 올바른지 확인하거나 다른 앱을 검색해보세요.";
+
+/* No comment provided by engineer. */
+"Please open the placeholder app and follow the instructions to continue jailbreaking your device." = "플레이스홀더 앱을 열고 기기의 탈옥을 계속하려면 지침을 따르세요.";
+
+/* No comment provided by engineer. */
+"Please reboot %@ and try again." = "%@를 재부팅한 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Please remove the existing source in order to add this one." = "이 소스를 추가하려면 기존 소스를 제거하세요.";
+
+/* No comment provided by engineer. */
+"Please restart Mail for changes to take effect." = "변경 사항을 적용하려면 Mail을 다시 시작하세요.";
+
+/* No comment provided by engineer. */
+"Please try again later." = "나중에 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Please unlock the device with your passcode and try again." = "기기를 암호로 잠금 해제한 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Please use the same AltServer you previously used with this Apple ID, or else apps installed with other AltServers will stop working.\n\nAre you sure you want to continue?" = "이전에 사용한 Apple ID와 동일한 AltServer를 사용하세요. 그렇지 않으면 다른 AltServer로 설치된 앱이 작동하지 않게 됩니다.\n\n계속하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Pledge" = "서약";
+
+/* No comment provided by engineer. */
+"Pledge %@ a month" = "월 %@ 서약";
+
+/* No comment provided by engineer. */
+"Pledge Expired" = "서약 만료";
+
+/* No comment provided by engineer. */
+"Pledged" = "서약 완료";
+
+/* No comment provided by engineer. */
+"Privacy Permission" = "개인정보 권한";
+
+/* No comment provided by engineer. */
+"Receive access to beta versions of AltStore, Delta, and more by becoming a patron." = "Patreon 후원자가 되어 AltStore, Delta 등의 베타 버전에 접근하세요.";
+
+/* No comment provided by engineer. */
+"Recessed" = "움푹 들어간";
+
+/* No comment provided by engineer. */
+"Recommended Sources" = "추천 소스";
+
+/* No comment provided by engineer. */
+"Recovery Suggestion" = "복구 제안";
+
+/* No comment provided by engineer. */
+"Refresh" = "새로 고침";
+
+/* No comment provided by engineer. */
+"Refresh %@" = "%@ 새로 고침";
+
+/* No comment provided by engineer. */
+"Refresh %@ Failed" = "%@ 새로 고침 실패";
+
+/* No comment provided by engineer. */
+"Refresh %@ in AltStore to continue using it." = "AltStore에서 %@를 새로 고쳐 계속 사용하세요.";
+
+/* No comment provided by engineer. */
+"Refresh All" = "모두 새로 고침";
+
+/* No comment provided by engineer. */
+"Refresh Later" = "나중에 새로 고침";
+
+/* No comment provided by engineer. */
+"Refreshed Apps" = "새로 고침된 앱";
+
+/* No comment provided by engineer. */
+"Refreshing" = "새로 고치는 중";
+
+/* No comment provided by engineer. */
+"REFRESHING APPS" = "앱 새로 고치는 중";
+
+/* No comment provided by engineer. */
+"remote AltServer %@" = "원격 AltServer %@";
+
+/* No comment provided by engineer. */
+"Remove" = "제거";
+
+/* No comment provided by engineer. */
+"REMOVE" = "제거";
+
+/* No comment provided by engineer. */
+"Remove App Extensions" = "앱 확장 제거";
+
+/* No comment provided by engineer. */
+"Remove Custom Icon" = "맞춤 아이콘 제거";
+
+/* No comment provided by engineer. */
+"Remove Source" = "소스 제거";
+
+/* No comment provided by engineer. */
+"Remove “%@” from AltStore?" = "AltStore에서 “%@”을(를) 제거하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Restore %@ Failed" = "%@ 복원 실패";
+
+/* No comment provided by engineer. */
+"Restore Backup" = "백업 복원";
+
+/* No comment provided by engineer. */
+"Restoring app data…" = "앱 데이터 복원 중…";
+
+/* No comment provided by engineer. */
+"Retry" = "재시도";
+
+/* No comment provided by engineer. */
+"Review Permissions" = "권한 검토";
+
+/* No comment provided by engineer. */
+"Search FAQ" = "FAQ 검색";
+
+/* No comment provided by engineer. */
+"See All" = "모두 보기";
+
+/* Markdown Button */
+"Show **Markdown** Examples" = "**Markdown** 예시 보기";
+
+/* Rich Text Button */
+"Show **Rich Text** Example" = "**리치 텍스트** 예시 보기";
+
+/* No comment provided by engineer. */
+"Sideloaded" = "사이드로딩됨";
+
+/* No comment provided by engineer. */
+"Sideloaded Apps" = "사이드로딩된 앱";
+
+/* No comment provided by engineer. */
+"Sign in with your Apple ID to download apps from AltStore." = "Apple ID로 로그인하여 AltStore에서 앱을 다운로드하세요.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "로그아웃";
+
+/* No comment provided by engineer. */
+"SIGN OUT" = "로그아웃";
+
+/* No comment provided by engineer. */
+"Social" = "소셜";
+
+/* No comment provided by engineer. */
+"Sort by…" = "정렬 기준…";
+
+/* No comment provided by engineer. */
+"Source File" = "소스 파일";
+
+/* No comment provided by engineer. */
+"Source Line" = "소스 줄";
+
+/* No comment provided by engineer. */
+"Sources determine what apps are available in AltStore. The more sources you add, the better your AltStore experience will be.\n\nDon’t know where to start? Try adding one of our Recommended Sources!" = "소스는 AltStore에서 사용할 수 있는 앱을 결정합니다. 더 많은 소스를 추가할수록 AltStore 사용 경험이 향상됩니다.\n\n어디서 시작할지 모르겠나요? 추천 소스 중 하나를 추가해보세요!";
+
+/* No comment provided by engineer. */
+"Special thanks to..." = "특별 감사...";
+
+/* No comment provided by engineer. */
+"Start Backup?" = "백업을 시작하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Success" = "성공";
+
+/* No comment provided by engineer. */
+"Successfully enabled JIT for %@." = "%@에 대해 JIT을 성공적으로 활성화했습니다.";
+
+/* No comment provided by engineer. */
+"Tap to view progress." = "탭하여 진행 상황을 확인하세요.";
+
+/* No comment provided by engineer. */
+"Tap to view source errors." = "탭하여 소스 오류를 확인하세요.";
+
+/* No comment provided by engineer. */
+"TECHY THINGS" = "기술적인 것들";
+
+/* No comment provided by engineer. */
+"The %@ '%@' for %@ is missing a usage description." = "%@의 '%@'에 대한 사용 설명이 누락되었습니다.";
+
+/* No comment provided by engineer. */
+"The 'versions' array is empty for %@." = "%@에 대한 '버전' 배열이 비어 있습니다.";
+
+/* No comment provided by engineer. */
+"The AltStore app group could not be found." = "AltStore 앱 그룹을 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"the app" = "앱";
+
+/* No comment provided by engineer. */
+"The app" = "앱";
+
+/* No comment provided by engineer. */
+"The app group “%@” could not be found." = "앱 그룹 “%@”을(를) 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The app is in an invalid format." = "앱 형식이 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The app is invalid." = "앱이 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The bundle ID does not match the one specified by the source." = "번들 ID가 소스에서 지정한 것과 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The bundle ID “%@” does not match the one specified by the source (“%@”)." = "번들 ID “%@”가 소스에서 지정한 것(“%@”)과 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"the bundle identifier %@" = "번들 식별자 %@";
+
+/* No comment provided by engineer. */
+"The bundle identifier for this app has already been registered." = "이 앱의 번들 식별자가 이미 등록되었습니다.";
+
+/* No comment provided by engineer. */
+"The bundle identifier for this app is invalid." = "이 앱의 번들 식별자가 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The bundle identifier is invalid." = "번들 식별자가 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The cached permissions for %@ do not match the source." = "%@의 캐시된 권한이 소스와 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The cached versions for %@ do not match the source." = "%@의 캐시된 버전이 소스와 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The certificate could not be found." = "인증서를 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The certificate request is invalid." = "인증서 요청이 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The certificate's private key could not be found." = "인증서의 개인 키를 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The connection failed because a connection cannot be made to the host." = "호스트에 연결할 수 없어 연결이 실패했습니다.";
+
+/* No comment provided by engineer. */
+"The connection failed because the network connection was lost." = "네트워크 연결이 끊겨 연결이 실패했습니다.";
+
+/* No comment provided by engineer. */
+"The connection to AltServer was dropped." = "AltServer와의 연결이 끊어졌습니다.";
+
+/* No comment provided by engineer. */
+"The connection to AltServer was lost." = "AltServer와의 연결이 끊어졌습니다.";
+
+/* No comment provided by engineer. */
+"The default AltStore source cannot be removed." = "기본 AltStore 소스는 제거할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The dependencies for %@ could not be determined." = "%@의 종속성을 확인할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"The dependency “%@” could not be downloaded." = "종속성 “%@”을(를) 다운로드할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"The developer certificate could not be found." = "개발자 인증서를 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The developer certificate's private key could not be found." = "개발자 인증서의 개인 키를 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The Developer disk image could not be installed onto %@." = "개발자 디스크 이미지를 %@에 설치할 수 없었습니다.";
+
+/* No comment provided by engineer. */
+"The Developer disk located at %@ is incompatible with %@." = "%@에 위치한 개발자 디스크가 %@와 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"the device" = "기기";
+
+/* No comment provided by engineer. */
+"The device" = "기기";
+
+/* No comment provided by engineer. */
+"The device's operating system does not support installing Developer disk images." = "기기의 운영 체제는 개발자 디스크 이미지 설치를 지원하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The disk is incompatible with %@." = "디스크가 %@와 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"the downloaded app" = "다운로드된 앱";
+
+/* No comment provided by engineer. */
+"The downloaded version of %@ does not match the build number specified by the source." = "다운로드된 %@ 버전이 소스에서 지정한 빌드 번호와 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The downloaded version of %@ does not match the version specified by the source." = "다운로드된 %@ 버전이 소스에서 지정한 버전과 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The following apps have been flagged:" = "다음 앱이 플래그되었습니다:";
+
+/* No comment provided by engineer. */
+"the following apps:" = "다음 앱:";
+
+/* No comment provided by engineer. */
+"The hash of the downloaded Mail plug-in does not match the expected hash." = "다운로드된 메일 플러그인의 해시가 예상 해시와 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The identifier for the requested provisioning profile is invalid." = "요청된 프로비저닝 프로필의 식별자가 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The identifier of the source “%@” has changed." = "소스 “%@”의 식별자가 변경되었습니다.";
+
+/* No comment provided by engineer. */
+"The latest version of %@ could not be determined." = "%@의 최신 버전을 확인할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The Mail plug-in does not exist at the requested URL." = "요청된 URL에 메일 플러그인이 존재하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The more you open AltStore, the more chances it's given to refresh apps in the background." = "AltStore를 더 자주 열수록 백그라운드에서 앱을 새로 고칠 기회가 더 많아집니다.";
+
+/* No comment provided by engineer. */
+"The more you use AltStore, the more often iOS will allow it to refresh apps in the background." = "AltStore를 더 자주 사용할수록 iOS가 백그라운드에서 앱을 새로 고칠 기회를 더 자주 허용합니다.";
+
+/* No comment provided by engineer. */
+"The name of this app contains invalid characters." = "이 앱의 이름에 잘못된 문자가 포함되어 있습니다.";
+
+/* No comment provided by engineer. */
+"The name “%@” contains invalid characters." = "이름 “%@”에 잘못된 문자가 포함되어 있습니다.";
+
+/* No comment provided by engineer. */
+"The operation is forbidden." = "작업이 금지되었습니다.";
+
+/* No comment provided by engineer. */
+"The operation returned an unknown result." = "작업이 알 수 없는 결과를 반환했습니다.";
+
+/* No comment provided by engineer. */
+"The operation timed out." = "작업이 시간 초과되었습니다.";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "작업이 취소되었습니다.";
+
+/* No comment provided by engineer. */
+"The OTA download URL for %@ could not be determined." = "%@의 OTA 다운로드 URL을 확인할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The process" = "프로세스";
+
+/* No comment provided by engineer. */
+"The process '%@'" = "프로세스 '%@'";
+
+/* No comment provided by engineer. */
+"The provided .ipa does not contain an app bundle." = "제공된 .ipa 파일에 앱 번들이 포함되어 있지 않습니다.";
+
+/* No comment provided by engineer. */
+"The provided anisette data is invalid." = "제공된 anisette 데이터가 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The provided app group is invalid." = "제공된 앱 그룹이 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The provided app is missing its Info.plist." = "제공된 앱에 Info.plist가 없습니다.";
+
+/* No comment provided by engineer. */
+"The provided parameters are invalid." = "제공된 매개변수가 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"The requested app" = "요청된 앱";
+
+/* No comment provided by engineer. */
+"the same bundle identifier" = "동일한 번들 식별자";
+
+/* No comment provided by engineer. */
+"The SHA-256 hash of %@ does not match the hash specified by the source." = "%@의 SHA-256 해시가 소스에서 지정한 해시와 일치하지 않습니다.";
+
+/* No comment provided by engineer. */
+"The source" = "소스";
+
+/* No comment provided by engineer. */
+"The source “%@”" = "소스 “%@”";
+
+/* No comment provided by engineer. */
+"The source “%@” contains %@ for %@." = "소스 “%@”에 %@이(가) %@에 포함되어 있습니다.";
+
+/* No comment provided by engineer. */
+"The source “%@” contains multiple apps with %@." = "소스 “%@”에 %@을(를) 가진 여러 앱이 포함되어 있습니다.";
+
+/* No comment provided by engineer. */
+"The source “%@” contains notarized apps, which are not supported by this version of AltStore." = "소스 “%@”에 공증된 앱이 포함되어 있으며, 이는 이 버전의 AltStore에서 지원되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The source “%@” has been blocked by AltStore for security reasons." = "소스 “%@”은(는) 보안상의 이유로 AltStore에 의해 차단되었습니다.";
+
+/* No comment provided by engineer. */
+"The source “%@” is not supported by this version of AltStore." = "소스 “%@”은(는) 이 버전의 AltStore에서 지원되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The target app" = "대상 앱";
+
+/* No comment provided by engineer. */
+"The task timed out after %@ seconds." = "작업이 %@초 후에 시간 초과되었습니다.";
+
+/* No comment provided by engineer. */
+"The URL to download the Developer disk image could not be determined." = "개발자 디스크 이미지를 다운로드할 URL을 확인할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"There are no AltStore sources." = "AltStore 소스가 없습니다.";
+
+/* No comment provided by engineer. */
+"There is no 'versions' key for %@." = "%@에 '버전' 키가 없습니다.";
+
+/* No comment provided by engineer. */
+"There is no App ID with the requested identifier on this team." = "이 팀에 요청된 식별자를 가진 App ID가 없습니다.";
+
+/* No comment provided by engineer. */
+"There is no certificate with the requested serial number for this team." = "이 팀에 요청된 일련번호를 가진 인증서가 없습니다.";
+
+/* No comment provided by engineer. */
+"There is no provisioning profile with the requested identifier on this team." = "이 팀에 요청된 식별자를 가진 프로비저닝 프로필이 없습니다.";
+
+/* No comment provided by engineer. */
+"There was an error connecting to the device." = "기기에 연결하는 중 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"There was an error installing the Mail plug-in." = "메일 플러그인 설치 중 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"There was an issue communicating with the usbmuxd daemon." = "usbmuxd 데몬과 통신하는 데 문제가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"These are permissions required by “%@” that AltStore does not recognize. Make sure you understand them before continuing." = "이것은 AltStore에서 인식하지 못하는 “%@”의 필수 권한입니다. 계속하기 전에 이 권한을 이해하고 있는지 확인하세요.";
+
+/* No comment provided by engineer. */
+"These permissions must be declared by the source in order for AltStore to install this app:" = "AltStore가 이 앱을 설치하려면 소스에서 이러한 권한을 선언해야 합니다:";
+
+/* No comment provided by engineer. */
+"These updates don't support iOS %@. Please update your device to the latest iOS version to install them." = "이 업데이트는 iOS %@을(를) 지원하지 않습니다. 설치하려면 기기를 최신 iOS 버전으로 업데이트하세요.";
+
+/* No comment provided by engineer. */
+"This account requires signing in with two-factor authentication." = "이 계정은 2단계 인증을 통해 로그인해야 합니다.";
+
+/* No comment provided by engineer. */
+"this app" = "이 앱";
+
+/* No comment provided by engineer. */
+"This app" = "이 앱";
+
+/* No comment provided by engineer. */
+"This app supports custom pledges. Pledge any amount on Patreon to receive access." = "이 앱은 맞춤 서약을 지원합니다. Patreon에서 원하는 금액을 서약하여 접근 권한을 받으세요.";
+
+/* No comment provided by engineer. */
+"This device is already registered with this team." = "이 기기는 이미 이 팀에 등록되어 있습니다.";
+
+/* No comment provided by engineer. */
+"This device is running iOS %@, but %@" = "이 기기는 iOS %@을(를) 실행 중이지만, %@";
+
+/* No comment provided by engineer. */
+"this device's OS version" = "이 기기의 OS 버전";
+
+/* No comment provided by engineer. */
+"This device's UDID is invalid." = "이 기기의 UDID가 유효하지 않습니다.";
+
+/* No comment provided by engineer. */
+"This jailbreak has an untethered version, which means %@ will never expire — even after 7 days or rebooting the device.\n\nInstalling an untethered jailbreak requires a few extra steps, but AltStore will walk you through the process.\n\nWould you like to continue? " = "이 탈옥에는 완탈 버전이 있으며, %@은(는) 7일 후나 기기를 재부팅한 후에도 만료되지 않습니다.\n\n완탈을 설치하려면 몇 가지 추가 단계가 필요하지만, AltStore가 과정 안내를 도와드릴 것입니다.\n\n계속하시겠습니까?";
+
+/* No comment provided by engineer. */
+"This jailbreak is untethered, which means %@ will never expire — even after 7 days or rebooting the device.\n\nInstalling an untethered jailbreak requires a few extra steps, but AltStore will walk you through the process.\n\nWould you like to continue? " = "이 탈옥은 완탈이며, %@은(는) 7일 후나 기기를 재부팅한 후에도 만료되지 않습니다.\n\n완탈을 설치하려면 몇 가지 추가 단계가 필요하지만, AltStore가 과정 안내를 도와드릴 것입니다.\n\n계속하시겠습니까?";
+
+/* No comment provided by engineer. */
+"This may take a few seconds." = "몇 초 정도 소요될 수 있습니다.";
+
+/* No comment provided by engineer. */
+"This will also erase all backup data for this app." = "이 작업은 이 앱의 모든 백업 데이터를 삭제합니다.";
+
+/* No comment provided by engineer. */
+"This will not affect apps you've submitted to the App Store, but may cause apps you've installed to your devices with Xcode to stop working until you reinstall them.\n\nTo prevent this from happening, feel free to try again with another Apple ID." = "이 작업은 App Store에 제출한 앱에 영향을 미치지 않지만, Xcode로 기기에 설치한 앱이 다시 설치될 때까지 작동을 중지할 수 있습니다.\n\n이 문제가 발생하지 않도록, 다른 Apple ID로 다시 시도해보세요.";
+
+/* No comment provided by engineer. */
+"This will remove all temporary files as well as backups for uninstalled apps." = "이 작업은 모든 임시 파일과 제거된 앱의 백업도 삭제합니다.";
+
+/* No comment provided by engineer. */
+"This will replace all data you currently have in %@." = "이 작업은 현재 %@에 있는 모든 데이터를 대체합니다.";
+
+/* No comment provided by engineer. */
+"This will replace any previous backups. Please leave AltStore open until the backup is complete." = "이 작업은 이전 백업을 대체합니다. 백업이 완료될 때까지 AltStore를 열어 두세요.";
+
+/* No comment provided by engineer. */
+"This will take a few moments. Please do not turn off the screen or leave the app until patching is complete." = "이 작업은 잠시 시간이 걸립니다. 패치가 완료될 때까지 화면을 끄거나 앱을 종료하지 마세요.";
+
+/* No comment provided by engineer. */
+"Title" = "제목";
+
+/* No comment provided by engineer. */
+"Today" = "오늘";
+
+/* No comment provided by engineer. */
+"Try Again" = "다시 시도";
+
+/* No comment provided by engineer. */
+"Two-Factor Authentication Enabled" = "2단계 인증 활성화됨";
+
+/* No comment provided by engineer. */
+"Unable to access backup." = "백업에 접근할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Add Source" = "소스를 추가할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Change App Icon" = "앱 아이콘을 변경할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Check for Updates" = "업데이트를 확인할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Clear Cache" = "캐시를 지울 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to create app group backup directory." = "앱 그룹 백업 디렉토리를 생성할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to create backup directory." = "백업 디렉토리를 생성할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Export Detailed Log" = "상세 로그를 내보낼 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Fetch Apps" = "앱을 가져올 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Fetch News" = "뉴스를 가져올 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to find a persistent store." = "영구 저장소를 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to find a valid mapping model." = "유효한 매핑 모델을 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to find any managed object models." = "관리되는 객체 모델을 찾을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Launch AltStore" = "AltStore를 실행할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Load Recommended Sources" = "추천 소스를 로드할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to read app group backup." = "앱 그룹 백업을 읽을 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Refresh %@ Sources" = "%@ 소스를 새로 고칠 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Refresh Store" = "스토어를 새로 고칠 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Refresh “%@” Source" = "소스 “%@”을(를) 새로 고칠 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to Remove Source" = "소스를 제거할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Undefined" = "정의되지 않음";
+
+/* No comment provided by engineer. */
+"Underlying Error" = "기초 오류";
+
+/* No comment provided by engineer. */
+"Underlying Errors" = "기초 오류들";
+
+/* No comment provided by engineer. */
+"Uninstall Mail Plug-in" = "메일 플러그인 제거";
+
+/* No comment provided by engineer. */
+"Uninstall Plug-in" = "플러그인 제거";
+
+/* No comment provided by engineer. */
+"Unknown" = "알 수 없음";
+
+/* No comment provided by engineer. */
+"Unknown Source" = "알 수 없는 소스";
+
+/* No comment provided by engineer. */
+"Unlink %@" = "%@ 연결 해제";
+
+/* No comment provided by engineer. */
+"Unlink Patreon Account" = "Patreon 계정 연결 해제";
+
+/* No comment provided by engineer. */
+"Unsupported %@ Version" = "지원되지 않는 %@ 버전";
+
+/* No comment provided by engineer. */
+"Unsupported iOS Version" = "지원되지 않는 iOS 버전";
+
+/* No comment provided by engineer. */
+"Unsupported Update Available" = "지원되지 않는 업데이트 사용 가능";
+
+/* No comment provided by engineer. */
+"Unsupported Updates Available" = "지원되지 않는 업데이트 사용 가능";
+
+/* No comment provided by engineer. */
+"Untethering Recommended" = "완탈을 권장합니다";
+
+/* No comment provided by engineer. */
+"Untethering Required" = "완탈이 필요합니다";
+
+/* No comment provided by engineer. */
+"Untethering this jailbreak will prevent %@ from expiring, even after 7 days or rebooting the device. Are you sure you want to install without untethering?" = "이 탈옥을 완탈하면 %@이 만료되지 않으며, 7일 후나 기기 재부팅 후에도 유지됩니다. 완탈 없이 설치하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Update" = "업데이트";
+
+/* No comment provided by engineer. */
+"Update %@" = "%@ 업데이트";
+
+/* No comment provided by engineer. */
+"Update %@ Failed" = "%@ 업데이트 실패";
+
+/* No comment provided by engineer. */
+"Utilities" = "유틸리티";
+
+/* No comment provided by engineer. */
+"Version %@" = "버전 %@";
+
+/* No comment provided by engineer. */
+"View All" = "모두 보기";
+
+/* No comment provided by engineer. */
+"View All Apps" = "모든 앱 보기";
+
+/* No comment provided by engineer. */
+"View Error" = "오류 보기";
+
+/* No comment provided by engineer. */
+"View Instructions" = "지침 보기";
+
+/* No comment provided by engineer. */
+"View More Details" = "자세한 내용 보기";
+
+/* No comment provided by engineer. */
+"View Patreon" = "Patreon 보기";
+
+/* No comment provided by engineer. */
+"View Recommended Sources" = "추천 소스 보기";
+
+/* No comment provided by engineer. */
+"What are inactive apps?" = "비활성화된 앱이란?";
+
+/* No comment provided by engineer. */
+"wired AltServer" = "유선 AltServer";
+
+/* No comment provided by engineer. */
+"Would you like to add the source “%@”?" = "소스 “%@”을(를) 추가하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Would you like to download the last version compatible with this device instead?" = "이 기기와 호환되는 최신 버전을 대신 다운로드하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Would you like to download the last version compatible with your device instead?" = "기기와 호환되는 최신 버전을 대신 다운로드하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Would you like to remove this app's extensions so they don't count towards your limit?" = "이 앱의 확장을 제거하여 제한에 포함되지 않도록 하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Yesterday" = "어제";
+
+/* No comment provided by engineer. */
+"You are not a member of any developer teams." = "어떤 개발자 팀의 구성원이 아닙니다.";
+
+/* No comment provided by engineer. */
+"You are not a member of any development teams." = "어떤 개발 팀의 구성원이 아닙니다.";
+
+/* No comment provided by engineer. */
+"You are not signed in." = "로그인하지 않았습니다.";
+
+/* No comment provided by engineer. */
+"You can register another App ID in %@." = "%@에서 다른 App ID를 등록할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"You cannot activate more than 3 apps with a non-developer Apple ID." = "비개발자 Apple ID로는 3개 이상의 앱을 활성화할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"You cannot register more than 10 App IDs within a 7 day period." = "7일 동안 10개 이상의 App ID를 등록할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"You may only register 10 App IDs every 7 days." = "7일마다 최대 10개의 App ID만 등록할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"You must add this source before installing apps from it.\n\n“%@” will begin downloading once it has been added." = "이 소스에서 앱을 설치하려면 먼저 소스를 추가해야 합니다.\n\n“%@”이(가) 추가되면 다운로드가 시작됩니다.";
+
+/* No comment provided by engineer. */
+"You must also delete it from the home screen to fully uninstall the app." = "앱을 완전히 제거하려면 홈 화면에서 삭제해야 합니다.";
+
+/* No comment provided by engineer. */
+"You will no longer be able to install or refresh any apps that require pledges." = "서약이 필요한 앱을 더 이상 설치하거나 새로 고칠 수 없습니다.";
+
+/* No comment provided by engineer. */
+"You will no longer be able to install or refresh apps once you sign out." = "로그아웃하면 앱을 더 이상 설치하거나 새로 고칠 수 없습니다.";
+
+/* No comment provided by engineer. */
+"You will no longer be able to install or update any apps that require pledges." = "서약이 필요한 앱을 더 이상 설치하거나 업데이트할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"You're signed into Patreon but haven't connected your account with AltStore.\n\nPlease connect your account to download Patreon-exclusive apps." = "Patreon에 로그인했지만 AltStore와 계정이 연결되지 않았습니다.\n\nPatreon 전용 앱을 다운로드하려면 계정을 연결하세요.";
+
+/* No comment provided by engineer. */
+"Your Apple ID and password are not saved and are only sent to Apple for authentication." = "Apple ID와 비밀번호는 저장되지 않으며 인증을 위해서만 Apple로 전송됩니다.";
+
+/* No comment provided by engineer. */
+"Your Apple ID has no developer teams." = "Apple ID에 개발자 팀이 없습니다.";
+
+/* No comment provided by engineer. */
+"Your Apple ID or password is incorrect." = "Apple ID 또는 비밀번호가 잘못되었습니다.";
+
+/* No comment provided by engineer. */
+"your device" = "기기";
+
+/* No comment provided by engineer. */
+"Your device could not be registered with your development team." = "기기가 개발자 팀에 등록되지 않았습니다.";
+
+/* No comment provided by engineer. */
+"Your device must be plugged into your computer to enable JIT on iOS 17 or later." = "iOS 17 이상에서 JIT을 활성화하려면 기기를 컴퓨터에 연결해야 합니다.";
+
+/* No comment provided by engineer. */
+"Your device must be running iOS 12.2 or later to install AltStore." = "AltStore를 설치하려면 기기가 iOS 12.2 이상이어야 합니다.";
+
+/* No comment provided by engineer. */
+"your device's iOS version" = "기기의 iOS 버전";
+
+/* No comment provided by engineer. */
+"Your pledge is no longer active. Please renew it to continue using %@ normally." = "서약이 더 이상 활성화되지 않았습니다. %@을(를) 정상적으로 계속 사용하려면 서약을 갱신하세요.";
+
+/* No comment provided by engineer. */
+"“%@” Blocked" = "“%@” 차단됨";
+
+/* No comment provided by engineer. */
+"“%@” could not be added to AltStore." = "“%@”을(를) AltStore에 추가할 수 없었습니다.";

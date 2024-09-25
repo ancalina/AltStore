@@ -3,12 +3,23 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		0E33F94B8D78AB969FD309A3 /* Pods_AltStoreCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A08F67C18350C7990753F03F /* Pods_AltStoreCore.framework */; };
 		2A77E3D272F3D92436FAC272 /* Pods_AltStore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9EEAA842DA87A88A870053B /* Pods_AltStore.framework */; };
+		4AB5DD542CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD552CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD562CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD572CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD582CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD592CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD5A2CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD5B2CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
+		4AB5DD632CA403CC00C4EE19 /* Settings.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD622CA403CC00C4EE19 /* Settings.storyboard */; };
+		4AB5DD672CA404ED00C4EE19 /* AboutPatreonHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD662CA404ED00C4EE19 /* AboutPatreonHeaderView.xib */; };
+		4AB5DD6B2CA405C100C4EE19 /* Authentication.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD6A2CA405C100C4EE19 /* Authentication.storyboard */; };
 		A8BCEBEAC0620CF80A2FD26D /* Pods_AltServer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC3822AB1C4CF1D4CDF7445D /* Pods_AltServer.framework */; };
 		BF02419622F2199300129732 /* RefreshAttemptsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF02419522F2199300129732 /* RefreshAttemptsViewController.swift */; };
 		BF0241AA22F29CCD00129732 /* UserDefaults+AltServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0241A922F29CCD00129732 /* UserDefaults+AltServer.swift */; };
@@ -294,12 +305,10 @@
 		BFE338E822F10E56002E24B9 /* LaunchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE338E722F10E56002E24B9 /* LaunchViewController.swift */; };
 		BFE48975238007CE003239E0 /* AnisetteDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE48974238007CE003239E0 /* AnisetteDataManager.swift */; };
 		BFE4FFB6251BF7BA0018CF9B /* AltPlugin.zip in Resources */ = {isa = PBXBuildFile; fileRef = BFE4FFB5251BF7BA0018CF9B /* AltPlugin.zip */; };
-		BFE60738231ADF49002B0E8E /* Settings.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFE60737231ADF49002B0E8E /* Settings.storyboard */; };
 		BFE6073A231ADF82002B0E8E /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE60739231ADF82002B0E8E /* SettingsViewController.swift */; };
 		BFE6073C231AE1E7002B0E8E /* SettingsHeaderFooterView.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFE6073B231AE1E7002B0E8E /* SettingsHeaderFooterView.xib */; };
 		BFE60740231AFD2A002B0E8E /* InsetGroupTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6073F231AFD2A002B0E8E /* InsetGroupTableViewCell.swift */; };
 		BFE60742231B07E6002B0E8E /* SettingsHeaderFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE60741231B07E6002B0E8E /* SettingsHeaderFooterView.swift */; };
-		BFE6325A22A83BEB00F30809 /* Authentication.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFE6325922A83BEB00F30809 /* Authentication.storyboard */; };
 		BFE6326C22A86FF300F30809 /* AuthenticationOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6326B22A86FF300F30809 /* AuthenticationOperation.swift */; };
 		BFE972E3260A8B2700D0BDAC /* NSError+libimobiledevice.mm in Sources */ = {isa = PBXBuildFile; fileRef = BFE972E2260A8B2700D0BDAC /* NSError+libimobiledevice.mm */; };
 		BFECAC7F24FD950B0077C41F /* CodableError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD44605241188C300EAB90A /* CodableError.swift */; };
@@ -329,7 +338,6 @@
 		BFF0394B25F0551600BE607D /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF0394A25F0551600BE607D /* MenuController.swift */; };
 		BFF0B68E23219520007A79E1 /* PatreonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF0B68D23219520007A79E1 /* PatreonViewController.swift */; };
 		BFF0B69023219C6D007A79E1 /* PatreonComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF0B68F23219C6D007A79E1 /* PatreonComponents.swift */; };
-		BFF0B6922321A305007A79E1 /* AboutPatreonHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFF0B6912321A305007A79E1 /* AboutPatreonHeaderView.xib */; };
 		BFF0B6942321CB85007A79E1 /* AuthenticationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF0B6932321CB85007A79E1 /* AuthenticationViewController.swift */; };
 		BFF0B696232242D3007A79E1 /* LicensesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF0B695232242D3007A79E1 /* LicensesViewController.swift */; };
 		BFF0B6982322CAB8007A79E1 /* InstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF0B6972322CAB8007A79E1 /* InstructionsViewController.swift */; };
@@ -636,6 +644,18 @@
 
 /* Begin PBXFileReference section */
 		11611D46F8A7C8B928E8156B /* Pods-AltServer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AltServer.debug.xcconfig"; path = "Target Support Files/Pods-AltServer/Pods-AltServer.debug.xcconfig"; sourceTree = "<group>"; };
+		4AB5DD532CA4011F00C4EE19 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = ../../../en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4AB5DD5C2CA4013900C4EE19 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		4AB5DD5D2CA4013C00C4EE19 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		4AB5DD5E2CA4013E00C4EE19 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		4AB5DD5F2CA4013E00C4EE19 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		4AB5DD602CA4013E00C4EE19 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ../../../ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4AB5DD612CA403CC00C4EE19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Settings.storyboard; sourceTree = "<group>"; };
+		4AB5DD642CA403CC00C4EE19 /* mul */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; name = mul; path = mul.lproj/Settings.xcstrings; sourceTree = "<group>"; };
+		4AB5DD652CA404ED00C4EE19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/AboutPatreonHeaderView.xib; sourceTree = "<group>"; };
+		4AB5DD682CA404ED00C4EE19 /* mul */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; name = mul; path = mul.lproj/AboutPatreonHeaderView.xcstrings; sourceTree = "<group>"; };
+		4AB5DD692CA405C100C4EE19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Authentication.storyboard; sourceTree = "<group>"; };
+		4AB5DD6C2CA405C100C4EE19 /* mul */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; name = mul; path = mul.lproj/Authentication.xcstrings; sourceTree = "<group>"; };
 		589BA531D903B28F292063E5 /* Pods-AltServer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AltServer.release.xcconfig"; path = "Target Support Files/Pods-AltServer/Pods-AltServer.release.xcconfig"; sourceTree = "<group>"; };
 		A08F67C18350C7990753F03F /* Pods_AltStoreCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AltStoreCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A136EE677716B80768E9F0A2 /* Pods-AltStore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AltStore.release.xcconfig"; path = "Target Support Files/Pods-AltStore/Pods-AltStore.release.xcconfig"; sourceTree = "<group>"; };
@@ -947,12 +967,10 @@
 		BFE338E722F10E56002E24B9 /* LaunchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchViewController.swift; sourceTree = "<group>"; };
 		BFE48974238007CE003239E0 /* AnisetteDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnisetteDataManager.swift; sourceTree = "<group>"; };
 		BFE4FFB5251BF7BA0018CF9B /* AltPlugin.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = AltPlugin.zip; sourceTree = "<group>"; };
-		BFE60737231ADF49002B0E8E /* Settings.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Settings.storyboard; sourceTree = "<group>"; };
 		BFE60739231ADF82002B0E8E /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		BFE6073B231AE1E7002B0E8E /* SettingsHeaderFooterView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SettingsHeaderFooterView.xib; sourceTree = "<group>"; };
 		BFE6073F231AFD2A002B0E8E /* InsetGroupTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetGroupTableViewCell.swift; sourceTree = "<group>"; };
 		BFE60741231B07E6002B0E8E /* SettingsHeaderFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsHeaderFooterView.swift; sourceTree = "<group>"; };
-		BFE6325922A83BEB00F30809 /* Authentication.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Authentication.storyboard; sourceTree = "<group>"; };
 		BFE6326B22A86FF300F30809 /* AuthenticationOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationOperation.swift; sourceTree = "<group>"; };
 		BFE972E1260A8B2700D0BDAC /* NSError+libimobiledevice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSError+libimobiledevice.h"; sourceTree = "<group>"; };
 		BFE972E2260A8B2700D0BDAC /* NSError+libimobiledevice.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = "NSError+libimobiledevice.mm"; sourceTree = "<group>"; };
@@ -962,7 +980,6 @@
 		BFF0394A25F0551600BE607D /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		BFF0B68D23219520007A79E1 /* PatreonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatreonViewController.swift; sourceTree = "<group>"; };
 		BFF0B68F23219C6D007A79E1 /* PatreonComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatreonComponents.swift; sourceTree = "<group>"; };
-		BFF0B6912321A305007A79E1 /* AboutPatreonHeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AboutPatreonHeaderView.xib; sourceTree = "<group>"; };
 		BFF0B6932321CB85007A79E1 /* AuthenticationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationViewController.swift; sourceTree = "<group>"; };
 		BFF0B695232242D3007A79E1 /* LicensesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicensesViewController.swift; sourceTree = "<group>"; };
 		BFF0B6972322CAB8007A79E1 /* InstructionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsViewController.swift; sourceTree = "<group>"; };
@@ -1830,6 +1847,7 @@
 		BFD247612284B9A500981D42 = {
 			isa = PBXGroup;
 			children = (
+				4AB5DD522CA4011F00C4EE19 /* Localizable.strings */,
 				BFD2476C2284B9A500981D42 /* AltStore */,
 				BF66EE7F2501AE50007EE018 /* AltStoreCore */,
 				BF45868E229872EA00BD7491 /* AltServer */,
@@ -2007,7 +2025,7 @@
 		BFDB69FB22A9A7A6007EA6D6 /* Settings */ = {
 			isa = PBXGroup;
 			children = (
-				BFE60737231ADF49002B0E8E /* Settings.storyboard */,
+				4AB5DD622CA403CC00C4EE19 /* Settings.storyboard */,
 				BFE60739231ADF82002B0E8E /* SettingsViewController.swift */,
 				BFE6073F231AFD2A002B0E8E /* InsetGroupTableViewCell.swift */,
 				BFE60741231B07E6002B0E8E /* SettingsHeaderFooterView.swift */,
@@ -2015,7 +2033,7 @@
 				BF02419522F2199300129732 /* RefreshAttemptsViewController.swift */,
 				BFF0B68D23219520007A79E1 /* PatreonViewController.swift */,
 				BFF0B68F23219C6D007A79E1 /* PatreonComponents.swift */,
-				BFF0B6912321A305007A79E1 /* AboutPatreonHeaderView.xib */,
+				4AB5DD662CA404ED00C4EE19 /* AboutPatreonHeaderView.xib */,
 				BFF0B695232242D3007A79E1 /* LicensesViewController.swift */,
 				D56D213F2B7D9942007641C5 /* AltAppIconsViewController.swift */,
 				D589170128C7D93500E39C8B /* Error Log */,
@@ -2060,7 +2078,7 @@
 		BFE6325822A83BA800F30809 /* Authentication */ = {
 			isa = PBXGroup;
 			children = (
-				BFE6325922A83BEB00F30809 /* Authentication.storyboard */,
+				4AB5DD6A2CA405C100C4EE19 /* Authentication.storyboard */,
 				BFF0B6932321CB85007A79E1 /* AuthenticationViewController.swift */,
 				BFF0B6972322CAB8007A79E1 /* InstructionsViewController.swift */,
 				BF6F439123644C6E00A0B879 /* RefreshAltStoreViewController.swift */,
@@ -2651,8 +2669,9 @@
 		BFD247622284B9A500981D42 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1500;
-				LastUpgradeCheck = 1410;
+				LastUpgradeCheck = 1600;
 				ORGANIZATIONNAME = "Riley Testut";
 				TargetAttributes = {
 					BF18BFE624857D7900DD5981 = {
@@ -2720,6 +2739,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
 			);
 			mainGroup = BFD247612284B9A500981D42;
 			packageReferences = (
@@ -2751,6 +2771,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFE4FFB6251BF7BA0018CF9B /* AltPlugin.zip in Resources */,
+				4AB5DD552CA4011F00C4EE19 /* Localizable.strings in Resources */,
 				BF458694229872EA00BD7491 /* Assets.xcassets in Resources */,
 				BF458697229872EA00BD7491 /* Main.storyboard in Resources */,
 			);
@@ -2761,6 +2782,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF58048A246A28F9008AE704 /* LaunchScreen.storyboard in Resources */,
+				4AB5DD572CA4011F00C4EE19 /* Localizable.strings in Resources */,
 				BF580487246A28F9008AE704 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2769,6 +2791,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB5DD562CA4011F00C4EE19 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2777,6 +2800,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFCB9207250AB2120057B44E /* Colors.xcassets in Resources */,
+				4AB5DD582CA4011F00C4EE19 /* Localizable.strings in Resources */,
 				D53D84022A2158FC00543C3B /* Permissions.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2786,6 +2810,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5FB7A0E2AA25A4E00EF863D /* Previews.xcassets in Resources */,
+				4AB5DD592CA4011F00C4EE19 /* Localizable.strings in Resources */,
 				BF989171250AABF4002ACF50 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2797,7 +2822,7 @@
 				BFC57A702416FC7600EB891E /* InstalledAppsCollectionHeaderView.xib in Resources */,
 				BFB4323F22DE852000B7F8BC /* UpdateCollectionViewCell.xib in Resources */,
 				D59162AD29BA616A005CBF47 /* SourceHeaderView.xib in Resources */,
-				BFE60738231ADF49002B0E8E /* Settings.storyboard in Resources */,
+				4AB5DD632CA403CC00C4EE19 /* Settings.storyboard in Resources */,
 				D5144BA82B8684EF00738A5C /* Icons.xcassets in Resources */,
 				D57DF638271E32F000677701 /* PatchApp.storyboard in Resources */,
 				BFD2477A2284B9A700981D42 /* LaunchScreen.storyboard in Resources */,
@@ -2805,12 +2830,13 @@
 				D56D21422B7D9C41007641C5 /* AltIcons.plist in Resources */,
 				BF770E6922BD57DD002A40FE /* Silence.m4a in Resources */,
 				BFD247772284B9A700981D42 /* Assets.xcassets in Resources */,
-				BFF0B6922321A305007A79E1 /* AboutPatreonHeaderView.xib in Resources */,
+				4AB5DD672CA404ED00C4EE19 /* AboutPatreonHeaderView.xib in Resources */,
 				BFB6B22423187A3D0022A802 /* NewsCollectionViewCell.xib in Resources */,
 				BFD247752284B9A500981D42 /* Main.storyboard in Resources */,
 				BFE6073C231AE1E7002B0E8E /* SettingsHeaderFooterView.xib in Resources */,
 				BF29012F2318F6B100D88A45 /* AppBannerView.xib in Resources */,
-				BFE6325A22A83BEB00F30809 /* Authentication.storyboard in Resources */,
+				4AB5DD542CA4011F00C4EE19 /* Localizable.strings in Resources */,
+				4AB5DD6B2CA405C100C4EE19 /* Authentication.storyboard in Resources */,
 				D5935AEF29C3B23600C157EF /* Sources.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2819,6 +2845,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB5DD5A2CA4011F00C4EE19 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2826,6 +2853,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB5DD5B2CA4011F00C4EE19 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3438,10 +3466,47 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		4AB5DD522CA4011F00C4EE19 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4AB5DD532CA4011F00C4EE19 /* en */,
+				4AB5DD602CA4013E00C4EE19 /* ko */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		4AB5DD622CA403CC00C4EE19 /* Settings.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4AB5DD612CA403CC00C4EE19 /* Base */,
+				4AB5DD642CA403CC00C4EE19 /* mul */,
+			);
+			name = Settings.storyboard;
+			sourceTree = "<group>";
+		};
+		4AB5DD662CA404ED00C4EE19 /* AboutPatreonHeaderView.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4AB5DD652CA404ED00C4EE19 /* Base */,
+				4AB5DD682CA404ED00C4EE19 /* mul */,
+			);
+			name = AboutPatreonHeaderView.xib;
+			sourceTree = "<group>";
+		};
+		4AB5DD6A2CA405C100C4EE19 /* Authentication.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4AB5DD692CA405C100C4EE19 /* Base */,
+				4AB5DD6C2CA405C100C4EE19 /* mul */,
+			);
+			name = Authentication.storyboard;
+			sourceTree = "<group>";
+		};
 		BF458695229872EA00BD7491 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				BF458696229872EA00BD7491 /* Base */,
+				4AB5DD5E2CA4013E00C4EE19 /* ko */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -3450,6 +3515,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BF580489246A28F9008AE704 /* Base */,
+				4AB5DD5F2CA4013E00C4EE19 /* ko */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -3458,6 +3524,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BFD247742284B9A500981D42 /* Base */,
+				4AB5DD5C2CA4013900C4EE19 /* ko */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -3466,6 +3533,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BFD247792284B9A700981D42 /* Base */,
+				4AB5DD5D2CA4013C00C4EE19 /* ko */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -3568,7 +3636,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 84;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3852,6 +3920,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = YES;
 				INFOPLIST_FILE = AltStoreCore/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -3859,6 +3928,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.AltStoreCore;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
@@ -3883,6 +3953,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = YES;
 				INFOPLIST_FILE = AltStoreCore/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -3890,6 +3961,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++14";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.AltStoreCore;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
@@ -3914,7 +3986,7 @@
 				CURRENT_PROJECT_VERSION = 31;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_ASSET_PATHS = AltWidget/Previews.xcassets;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				INFOPLIST_FILE = AltWidget/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3966,6 +4038,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -3988,6 +4061,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -4034,6 +4108,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -4056,6 +4131,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -4096,7 +4172,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EA79A60285C6AF5848AA16E9 /* Pods-AltStore.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CLANG_ENABLE_MODULES = YES;
@@ -4104,7 +4179,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 31;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = AltStore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -4131,7 +4206,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A136EE677716B80768E9F0A2 /* Pods-AltStore.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CLANG_ENABLE_MODULES = YES;
@@ -4173,7 +4247,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = AltXPC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -4230,7 +4304,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.AltTests;
@@ -4280,8 +4354,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CREATE_INFOPLIST_SECTION_IN_BINARY = YES;
 				CURRENT_PROJECT_VERSION = 2;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 6XVY5G3U44;
+				DEVELOPMENT_TEAM = SGH4LSAZZH;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
@@ -4324,6 +4399,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CREATE_INFOPLIST_SECTION_IN_BINARY = YES;
 				CURRENT_PROJECT_VERSION = 2;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 6XVY5G3U44;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
