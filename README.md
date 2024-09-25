@@ -68,7 +68,7 @@ AltStore는 일부 종속성의 라이선스 때문에 **AGPLv3 라이선스**�
 
 ## 연락처
 
-### 번역가
+### 현지화
 * 이메일: taekyung@ancal.me
 
 ### 개발자 (Riley Testut)
