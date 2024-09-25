@@ -3,7 +3,7 @@
 
 > AltStore는 탈옥하지 않은 iOS 기기를 위한 대체 앱 스토어입니다.
 > 이 저장소는 AltStore의 한국어 번역본입니다. 
-[Go to English](README.en.md)
+>> [Go to English](README.en.md)
 [![Swift Version](https://img.shields.io/badge/swift-5.0-orange.svg)](https://swift.org/)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
