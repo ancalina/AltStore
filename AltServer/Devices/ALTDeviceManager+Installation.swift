@@ -19,7 +19,7 @@ let altstoreSourceURL = URL(string: "https://apps.altstore.io")!
 #if BETA
 let altstoreBundleID = "com.rileytestut.AltStore.Beta"
 #else
-let altstoreBundleID = "com.rileytestut.AltStore"
+let altstoreBundleID = "me.ancal.AltStore"
 #endif
 
 private let appGroupsSemaphore = DispatchSemaphore(value: 1)
