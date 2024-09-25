@@ -1,0 +1,45 @@
+name: iOS Build and Export IPA
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up CocoaPods
+      run: |
+        sudo gem install cocoapods
+        pod install --repo-update
+
+    - name: Set up Xcode
+      uses: maxim-lobanov/setup-xcode@v2
+      with:
+        xcode-version: '14.0'  # Xcode 버전 설정
+
+    - name: Build and export IPA
+      run: |
+        xcodebuild -workspace "AltStore.xcworkspace" \  # .xcworkspace로 빌드
+                   -scheme "AltStore" \  # AltStore 스키마 사용
+                   -sdk iphoneos \
+                   -configuration Release \
+                   -archivePath $PWD/build/App.xcarchive archive
+        xcodebuild -exportArchive \
+                   -archivePath $PWD/build/App.xcarchive \
+                   -exportOptionsPlist ExportOptions.plist \
+                   -exportPath $PWD/build
+
+    - name: Upload IPA
+      uses: actions/upload-artifact@v3
+      with:
+        name: AltStore.ipa
+        path: build/AltStore.ipa
