@@ -5,9 +5,9 @@ name: Swift
 
 on:
   push:
-    branches: [ "test_branch" ]
+    branches: [ "test-branch" ]
   pull_request:
-    branches: [ "test_branch" ]
+    branches: [ "test-branch" ]
 
 jobs:
   build:
