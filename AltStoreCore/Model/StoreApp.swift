@@ -19,7 +19,7 @@ public extension StoreApp
     #elseif BETA
     static let altstoreAppID = "com.rileytestut.AltStore.Beta"
     #else
-    static let altstoreAppID = "com.rileytestut.AltStore"
+    static let altstoreAppID = "me.ancal.AltStore"
     #endif
     
     static let dolphinAppID = "me.oatmealdome.dolphinios-njb"
