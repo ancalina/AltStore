@@ -24,7 +24,7 @@ jobs:
     - name: Set up Xcode
       uses: maxim-lobanov/setup-xcode@v2
       with:
-        xcode-version: '14.0'  # Xcode 버전 설정
+        xcode-version: '14.0'  # 원하는 Xcode 버전
 
     - name: Build and export IPA
       run: |
