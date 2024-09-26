@@ -28,13 +28,15 @@ jobs:
           pod install --project-directory=./  # 프로젝트 루트에서 의존성 설치
 
       - name: Archive with UIKit
-  run: |
-    xcodebuild archive -workspace AltStore.xcworkspace -scheme AltStore \
-    -sdk iphoneos -destination 'generic/platform=iOS' \
-    -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
-    OTHER_LDFLAGS="-framework UIKit" \
-    CODE_SIGNING_ALLOWED=NO \
-    CODE_SIGNING_REQUIRED=NO
+        run: |
+          xcodebuild archive -workspace AltStore.xcworkspace \
+            -scheme AltStore \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
+            OTHER_LDFLAGS="-framework UIKit" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO
 
       - name: Export .ipa file
         run: |
