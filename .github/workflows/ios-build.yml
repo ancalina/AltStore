@@ -27,16 +27,15 @@ jobs:
         brew install cocoapods  # Homebrew를 통해 CocoaPods 설치
         pod install --project-directory=./  # 의존성 설치
 
-    - name: Archive with Explicit Roxas Dependency and Bitcode Disabled
+    - name: Archive with UIKit and Roxas Explicitly Linked
       run: |
         xcodebuild archive -workspace AltStore.xcworkspace -scheme AltStore \
         -sdk iphoneos -destination 'generic/platform=iOS' \
         -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
-        OTHER_LDFLAGS="-framework UIKit" \
+        OTHER_LDFLAGS="-framework UIKit -framework Roxas" \  # UIKit과 Roxas를 명시적으로 포함
         ENABLE_BITCODE=NO \
         CODE_SIGNING_ALLOWED=NO \
-        CODE_SIGNING_REQUIRED=NO \
-        -target "Roxas"  # Roxas 타겟 명시
+        CODE_SIGNING_REQUIRED=NO
 
     - name: Export .ipa file
       run: |
