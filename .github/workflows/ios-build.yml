@@ -24,10 +24,10 @@ jobs:
     - name: Install dependencies
       run: |
         brew install cocoapods
-        pod install --project-directory=YourProjectName
+        pod install --project-directory=AltStore
 
     - name: Build
-      run: xcodebuild -workspace YourProjectName.xcworkspace -scheme YourSchemeName -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4' clean build
+      run: xcodebuild -workspace AltStore.xcworkspace -scheme AltStore -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4' clean build
 
     - name: Run tests
-      run: xcodebuild test -workspace YourProjectName.xcworkspace -scheme YourSchemeName -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4'
+      run: xcodebuild test -workspace AltStore.xcworkspace -scheme AltStore -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4'
