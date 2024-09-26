@@ -10,13 +10,6 @@
 		0E33F94B8D78AB969FD309A3 /* Pods_AltStoreCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A08F67C18350C7990753F03F /* Pods_AltStoreCore.framework */; };
 		2A77E3D272F3D92436FAC272 /* Pods_AltStore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9EEAA842DA87A88A870053B /* Pods_AltStore.framework */; };
 		4AB5DD542CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
-		4AB5DD552CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
-		4AB5DD562CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
-		4AB5DD572CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
-		4AB5DD582CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
-		4AB5DD592CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
-		4AB5DD5A2CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
-		4AB5DD5B2CA4011F00C4EE19 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD522CA4011F00C4EE19 /* Localizable.strings */; };
 		4AB5DD632CA403CC00C4EE19 /* Settings.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD622CA403CC00C4EE19 /* Settings.storyboard */; };
 		4AB5DD672CA404ED00C4EE19 /* AboutPatreonHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD662CA404ED00C4EE19 /* AboutPatreonHeaderView.xib */; };
 		4AB5DD6B2CA405C100C4EE19 /* Authentication.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB5DD6A2CA405C100C4EE19 /* Authentication.storyboard */; };
