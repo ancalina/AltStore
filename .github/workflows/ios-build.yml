@@ -18,24 +18,24 @@ jobs:
       with:
         submodules: true
 
-    - name: Update submodules
-      run: git submodule update --init --recursive
-
-    - name: Set up Xcode
-      uses: maxim-lobanov/setup-xcode@v1
-      with:
-        xcode-version: '14.x'
-
     - name: Install dependencies
       run: |
         brew install cocoapods
         pod install --project-directory=./
 
-    - name: Archive and Export .ipa without provisioning
+    - name: Archive
       run: |
         xcodebuild archive -workspace AltStore.xcworkspace -scheme AltStore \
         -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4' \
-        -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" && \
-        xcodebuild -exportArchive -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
+        -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
+        EXCLUDED_SOURCE_FILE_NAMES="AltStoreCore/Localizable.strings" \
+        CODE_SIGNING_ALLOWED=NO \
+        CODE_SIGNING_REQUIRED=NO
+
+    - name: Export .ipa file
+      run: |
+        xcodebuild -exportArchive \
+        -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
         -exportPath $GITHUB_WORKSPACE/build/AltStore.ipa \
-        -exportOptionsPlist $GITHUB_WORKSPACE/exportOptions.plist CODE_SIGNING_ALLOWED=NO
+        -exportOptionsPlist $GITHUB_WORKSPACE/exportOptions.plist \
+        CODE_SIGNING_ALLOWED=NO
