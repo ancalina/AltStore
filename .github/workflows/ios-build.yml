@@ -13,33 +13,35 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        submodules: true  # 서브모듈 포함
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true  # 서브모듈 포함
 
-    - name: Update submodules
-      run: |
-        git submodule update --init --recursive  # 서브모듈 업데이트
+      - name: Update submodules
+        run: |
+          git submodule update --init --recursive  # 서브모듈 업데이트
 
-    - name: Install dependencies
-      run: |
-        brew install cocoapods  # Homebrew를 통해 CocoaPods 설치
-        pod install --project-directory=./  # 프로젝트 루트에서 의존성 설치
+      - name: Install dependencies
+        run: |
+          brew install cocoapods  # Homebrew를 통해 CocoaPods 설치
+          pod install --project-directory=./  # 프로젝트 루트에서 의존성 설치
 
-    - name: Archive
-      run: |
-        xcodebuild archive -workspace AltStore.xcworkspace -scheme AltStore \
-        -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4' \
-        -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
-        EXCLUDED_SOURCE_FILE_NAMES="AltStoreCore/Localizable.strings" \
-        CODE_SIGNING_ALLOWED=NO \
-        CODE_SIGNING_REQUIRED=NO
+      - name: Build with UIKit
+        run: |
+          xcodebuild archive -workspace AltStore.xcworkspace \
+            -scheme AltStore \
+            -sdk iphonesimulator \
+            -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4' \
+            -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
+            OTHER_LDFLAGS="-framework UIKit" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO
 
-    - name: Export .ipa file
-      run: |
-        xcodebuild -exportArchive \
-        -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
-        -exportPath $GITHUB_WORKSPACE/build/AltStore.ipa \
-        -exportOptionsPlist $GITHUB_WORKSPACE/exportOptions.plist \
-        CODE_SIGNING_ALLOWED=NO
+      - name: Export .ipa file
+        run: |
+          xcodebuild -exportArchive \
+            -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
+            -exportPath $GITHUB_WORKSPACE/build/AltStore.ipa \
+            -exportOptionsPlist $GITHUB_WORKSPACE/exportOptions.plist \
+            CODE_SIGNING_ALLOWED=NO
