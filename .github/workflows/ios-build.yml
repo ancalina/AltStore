@@ -15,6 +15,13 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        submodules: true  # 이 옵션을 사용하면 서브모듈을 자동으로 체크아웃할 수 있음
+
+    - name: Update submodules
+      run: |
+        cd ./  # 루트 디렉토리로 이동 (필요 없을 수도 있지만 명시적으로 작성)
+        git submodule update --init --recursive
 
     - name: Set up Xcode
       uses: maxim-lobanov/setup-xcode@v1
@@ -24,7 +31,7 @@ jobs:
     - name: Install dependencies
       run: |
         brew install cocoapods
-        pod install --project-directory=AltStore
+        pod install --project-directory=./
 
     - name: Build
       run: xcodebuild -workspace AltStore.xcworkspace -scheme AltStore -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 12,OS=14.4' clean build
