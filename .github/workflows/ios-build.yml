@@ -27,16 +27,15 @@ jobs:
           brew install cocoapods  # Homebrew를 통해 CocoaPods 설치
           pod install --project-directory=./  # 프로젝트 루트에서 의존성 설치
 
-      - name: Archive with UIKit
+      - name: Archive with Bitcode Disabled
         run: |
-          xcodebuild archive -workspace AltStore.xcworkspace \
-            -scheme AltStore \
-            -sdk iphoneos \
-            -destination 'generic/platform=iOS' \
-            -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
-            OTHER_LDFLAGS="-framework UIKit" \
-            CODE_SIGNING_ALLOWED=NO \
-            CODE_SIGNING_REQUIRED=NO
+          xcodebuild archive -workspace AltStore.xcworkspace -scheme AltStore \
+          -sdk iphoneos -destination 'generic/platform=iOS' \
+          -archivePath $GITHUB_WORKSPACE/build/AltStore.xcarchive \
+          OTHER_LDFLAGS="-framework UIKit" \
+          CODE_SIGNING_ALLOWED=NO \
+          CODE_SIGNING_REQUIRED=NO \
+          ENABLE_BITCODE=NO
 
       - name: Export .ipa file
         run: |
